@@ -1,0 +1,4322 @@
+[
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1624.71,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0000"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 877.45,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0001"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 191.12,
+  "invoice_id": "INV-001-0023",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0002"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 484.78,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0003"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1286.03,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0004"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 265.73,
+  "invoice_id": "INV-002-0004",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0005"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 640.01,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0006"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 45.82,
+  "invoice_id": "INV-001-0042",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0007"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 193.25,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0008"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 3614.58,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0009"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1345.77,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0010"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 1326.82,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0011"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 435.05,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0012"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 46.05,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0013"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 42.66,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0014"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 591.08,
+  "invoice_id": "INV-002-0003",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0015"
+ },
+ {
+  "claim_type": null,
+  "claimed_amount_usd": 1516.78,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0016"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 1058.21,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0017"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 151.61,
+  "invoice_id": "INV-004-0010",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0018"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 591.57,
+  "invoice_id": "INV-003-0005",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0019"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 1320.27,
+  "invoice_id": "INV-003-0013",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0020"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 40.96,
+  "invoice_id": "INV-001-0018",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0021"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 383.22,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0022"
+ },
+ {
+  "claim_type": null,
+  "claimed_amount_usd": 422.05,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0023"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 318.18,
+  "invoice_id": "INV-003-0011",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0024"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 589.61,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0025"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 39.34,
+  "invoice_id": "INV-004-0028",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0026"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 895.35,
+  "invoice_id": "INV-001-0001",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0027"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 196.19,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0028"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 208.28,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0029"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1252.98,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0030"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 226.93,
+  "invoice_id": "INV-005-0005",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0031"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 3495.5,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0032"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1624.71,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": true,
+  "method": "regex",
+  "claim_id": "CLM-0033"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 896.96,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0034"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 245.01,
+  "invoice_id": "INV-003-0003",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0035"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 76.55,
+  "invoice_id": "INV-004-0023",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0036"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 436.4,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0037"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 900.96,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0038"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 53.61,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0039"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 124.77,
+  "invoice_id": "INV-004-0003",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0040"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 1133.63,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0041"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 5922.31,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0042"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 256.62,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0043"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 39.75,
+  "invoice_id": "INV-005-0011",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0044"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 152.98,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0045"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 315.04,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0046"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 141.35,
+  "invoice_id": "INV-001-0025",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0047"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1108.69,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0048"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1392.98,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0049"
+ },
+ {
+  "claim_type": null,
+  "claimed_amount_usd": 1498.19,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0050"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 342.61,
+  "invoice_id": "INV-004-0033",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0051"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 699.95,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0052"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 129.48,
+  "invoice_id": "INV-005-0006",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0053"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1280.11,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0054"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1275.23,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0055"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 877.45,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": true,
+  "method": "regex",
+  "claim_id": "CLM-0056"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1070.39,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0057"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 245.47,
+  "invoice_id": "INV-005-0003",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0058"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 225.53,
+  "invoice_id": "INV-001-0021",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0059"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 604.45,
+  "invoice_id": "INV-003-0015",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0060"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 52.52,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0061"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 345.35,
+  "invoice_id": "INV-003-0008",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0062"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1343.87,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0063"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 39.55,
+  "invoice_id": "INV-004-0025",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0064"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 350.81,
+  "invoice_id": "INV-002-0005",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0065"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 39.63,
+  "invoice_id": "INV-005-0005",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0066"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 899.91,
+  "invoice_id": "INV-002-0011",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0067"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 233.96,
+  "invoice_id": "INV-005-0013",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0068"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 918.35,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0069"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 128.09,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0070"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 189.78,
+  "invoice_id": "INV-004-0032",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0071"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 40.93,
+  "invoice_id": "INV-006-0015",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0072"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 581.16,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0073"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 114.58,
+  "invoice_id": "INV-005-0012",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0074"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 177.14,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0075"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 1086.51,
+  "invoice_id": "INV-003-0007",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0076"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 1402.79,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0077"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 114.5,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0078"
+ },
+ {
+  "claim_type": null,
+  "claimed_amount_usd": 433.97,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0079"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1122.76,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0080"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1604.29,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0081"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 293.47,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0082"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 899.79,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0083"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 3495.27,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0084"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 102.87,
+  "invoice_id": "INV-005-0000",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0085"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 244.62,
+  "invoice_id": "INV-004-0018",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0086"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 1715.3,
+  "invoice_id": "INV-006-0010",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0087"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 590.07,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0088"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 1326.65,
+  "invoice_id": "INV-001-0004",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0089"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 245.97,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0090"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 63.4,
+  "invoice_id": "INV-002-0012",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0091"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 54.3,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0092"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 93.54,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0093"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 301.57,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0094"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 258.3,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0095"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 347.26,
+  "invoice_id": "INV-003-0012",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0096"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 214.08,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0097"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 176.28,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0098"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 323.05,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0099"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 70.91,
+  "invoice_id": "INV-002-0007",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0100"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 40.7,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0101"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 348.45,
+  "invoice_id": "INV-003-0016",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0102"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 228.43,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0103"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 390.36,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0104"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 40.42,
+  "invoice_id": "INV-005-0005",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0105"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 191.12,
+  "invoice_id": "INV-001-0023",
+  "promo_id": null,
+  "is_resubmission": true,
+  "method": "regex",
+  "claim_id": "CLM-0106"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 886.56,
+  "invoice_id": "INV-002-0001",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0107"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 222.98,
+  "invoice_id": "INV-006-0014",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0108"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 50.96,
+  "invoice_id": "INV-004-0005",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0109"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1370.69,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0110"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 130.38,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0111"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 104.83,
+  "invoice_id": "INV-006-0006",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0112"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 105.22,
+  "invoice_id": "INV-001-0019",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0113"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 232.27,
+  "invoice_id": "INV-004-0009",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0114"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 73.64,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0115"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 251.6,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0116"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 239.82,
+  "invoice_id": "INV-006-0005",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0117"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 198.24,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0118"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 690.49,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0119"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 238.99,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0120"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 1032.84,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0121"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 67.85,
+  "invoice_id": "INV-002-0003",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0122"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 751.51,
+  "invoice_id": "INV-002-0007",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0123"
+ },
+ {
+  "claim_type": null,
+  "claimed_amount_usd": 1129.86,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0124"
+ },
+ {
+  "claim_type": null,
+  "claimed_amount_usd": 756.99,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0125"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 127.99,
+  "invoice_id": "INV-001-0043",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0126"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 368.07,
+  "invoice_id": "INV-002-0010",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0127"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1123.78,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0128"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 142.82,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0129"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1368.09,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0130"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 398.27,
+  "invoice_id": "INV-002-0000",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0131"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 914.32,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0132"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 39.14,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0133"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 318.51,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0134"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1066.04,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0135"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 161.61,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0136"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 438.54,
+  "invoice_id": "INV-004-0022",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0137"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 156.86,
+  "invoice_id": "INV-006-0001",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0138"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 325.17,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0139"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 239.51,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0140"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 132.41,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0141"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 892.94,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0142"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 86.19,
+  "invoice_id": "INV-006-0003",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0143"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 39.65,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0144"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 1368.6,
+  "invoice_id": "INV-004-0025",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0145"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 443.79,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0146"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 114.82,
+  "invoice_id": "INV-003-0008",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0147"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 49.38,
+  "invoice_id": "INV-004-0002",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0148"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 40.71,
+  "invoice_id": "INV-001-0003",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0149"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 449.69,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0150"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 484.78,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": true,
+  "method": "regex",
+  "claim_id": "CLM-0151"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 610.43,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0152"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1491.8,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0153"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1164.62,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0154"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 594.89,
+  "invoice_id": "INV-003-0013",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0155"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 149.02,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0156"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 288.43,
+  "invoice_id": "INV-006-0002",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0157"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 97.1,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0158"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 79.47,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0159"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 175.06,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0160"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 602.8,
+  "invoice_id": "INV-004-0006",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0161"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 393.86,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0162"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 186.41,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0163"
+ },
+ {
+  "claim_type": null,
+  "claimed_amount_usd": 312.42,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0164"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 268.05,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0165"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 39.47,
+  "invoice_id": "INV-006-0012",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0166"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 603.78,
+  "invoice_id": "INV-006-0006",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0167"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 301.81,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0168"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 39.68,
+  "invoice_id": "INV-005-0007",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0169"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1372.29,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0170"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 908.02,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0171"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 480.75,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0172"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 65.32,
+  "invoice_id": "INV-004-0008",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0173"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 39.8,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0174"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 503.58,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0175"
+ },
+ {
+  "claim_type": null,
+  "claimed_amount_usd": 447.24,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0176"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 113.96,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0177"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 313.01,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0178"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 860.71,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0179"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 424.83,
+  "invoice_id": "INV-003-0014",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0180"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 39.91,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0181"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 170.88,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0182"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 216.35,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0183"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 87.3,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0184"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 228.63,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0185"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 62.31,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0186"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1286.03,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": true,
+  "method": "regex",
+  "claim_id": "CLM-0187"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 373.22,
+  "invoice_id": "INV-003-0009",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0188"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 907.58,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0189"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 1128.03,
+  "invoice_id": "INV-002-0009",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0190"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 41.41,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0191"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 270.34,
+  "invoice_id": "INV-004-0023",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0192"
+ },
+ {
+  "claim_type": null,
+  "claimed_amount_usd": 1044.86,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0193"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 113.77,
+  "invoice_id": "INV-004-0022",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0194"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 181.65,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0195"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 360.31,
+  "invoice_id": "INV-006-0006",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0196"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 54.32,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0197"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 201.79,
+  "invoice_id": "INV-005-0008",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0198"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 887.49,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0199"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 207.91,
+  "invoice_id": "INV-006-0012",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0200"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 265.73,
+  "invoice_id": "INV-002-0004",
+  "promo_id": null,
+  "is_resubmission": true,
+  "method": "regex",
+  "claim_id": "CLM-0201"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 861.97,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0202"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 70.1,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0203"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 609.76,
+  "invoice_id": "INV-006-0004",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0204"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 2966.01,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0205"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 911.92,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0206"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 39.12,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0207"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 306.88,
+  "invoice_id": "INV-006-0002",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0208"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 1192.8,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0209"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 943.15,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0210"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1559.02,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0211"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 892.64,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0212"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 894.1,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0213"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 400.11,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0214"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 94.58,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0215"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 69.52,
+  "invoice_id": "INV-002-0007",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0216"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 154.64,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0217"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 188.41,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0218"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 40.14,
+  "invoice_id": "INV-005-0005",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0219"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 39.51,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0220"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 612.73,
+  "invoice_id": "INV-002-0003",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0221"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 286.32,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0222"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 90.43,
+  "invoice_id": "INV-002-0001",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0223"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 204.64,
+  "invoice_id": "INV-004-0008",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0224"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 1177.27,
+  "invoice_id": "INV-001-0026",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0225"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 278.38,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0226"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 39.34,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0227"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 115.08,
+  "invoice_id": "INV-001-0029",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0228"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 889.78,
+  "invoice_id": "INV-003-0010",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0229"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 969.07,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0230"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 56.89,
+  "invoice_id": "INV-003-0008",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0231"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 136.84,
+  "invoice_id": "INV-002-0005",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0232"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 40.83,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0233"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 113.08,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0234"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 673.77,
+  "invoice_id": "INV-004-0016",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0235"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 1060.13,
+  "invoice_id": "INV-004-0000",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0236"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 179.72,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0237"
+ },
+ {
+  "claim_type": null,
+  "claimed_amount_usd": 430.65,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0238"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 585.39,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0239"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 886.27,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0240"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 452.23,
+  "invoice_id": "INV-004-0012",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0241"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 767.8,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0242"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 254.51,
+  "invoice_id": "INV-003-0008",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0243"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 643.57,
+  "invoice_id": "INV-001-0006",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0244"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 146.95,
+  "invoice_id": "INV-002-0004",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0245"
+ },
+ {
+  "claim_type": null,
+  "claimed_amount_usd": 580.2,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0246"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 39.98,
+  "invoice_id": "INV-004-0015",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0247"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 299.03,
+  "invoice_id": "INV-003-0002",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0248"
+ },
+ {
+  "claim_type": null,
+  "claimed_amount_usd": 1597.32,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0249"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 4337.32,
+  "invoice_id": "INV-004-0003",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0250"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 623.17,
+  "invoice_id": "INV-006-0009",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0251"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1392.88,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0252"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1038.01,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0253"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1390.3,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0254"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 60.2,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0255"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 214.65,
+  "invoice_id": "INV-005-0006",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0256"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 440.85,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0257"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 750.73,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0258"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 705.48,
+  "invoice_id": "INV-003-0015",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0259"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 177.87,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0260"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 1526.61,
+  "invoice_id": "INV-002-0008",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0261"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 749.42,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0262"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 40.76,
+  "invoice_id": "INV-002-0003",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0263"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 68.0,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0264"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 63.41,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0265"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 276.14,
+  "invoice_id": "INV-005-0006",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0266"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 76.87,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0267"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 4886.77,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0268"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 219.62,
+  "invoice_id": "INV-005-0013",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0269"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 452.61,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0270"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 136.42,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0271"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 65.32,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0272"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 40.77,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0273"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 1301.16,
+  "invoice_id": "INV-002-0002",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0274"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 872.91,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0275"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 896.35,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0276"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 399.5,
+  "invoice_id": "INV-005-0008",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0277"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 47.45,
+  "invoice_id": "INV-005-0013",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0278"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1401.76,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0279"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1285.9,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0280"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 760.5,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0281"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 326.87,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0282"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 75.82,
+  "invoice_id": "INV-004-0020",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0283"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 657.66,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0284"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 39.83,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0285"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 39.42,
+  "invoice_id": "INV-002-0008",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0286"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 502.0,
+  "invoice_id": "INV-005-0004",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0287"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 892.04,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0288"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 607.56,
+  "invoice_id": "INV-005-0000",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0289"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 485.44,
+  "invoice_id": "INV-003-0012",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0290"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1390.63,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0291"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 259.93,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0292"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 125.07,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0293"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 133.76,
+  "invoice_id": "INV-002-0010",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0294"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 199.51,
+  "invoice_id": "INV-001-0025",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0295"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 195.88,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0296"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 418.86,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0297"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 61.17,
+  "invoice_id": "INV-005-0012",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0298"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 39.65,
+  "invoice_id": "INV-002-0012",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0299"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 3643.82,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0300"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 115.73,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0301"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 492.9,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0302"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 219.04,
+  "invoice_id": "INV-004-0020",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0303"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 193.61,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0304"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 39.78,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0305"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 5195.13,
+  "invoice_id": "INV-004-0014",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0306"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 483.11,
+  "invoice_id": "INV-005-0007",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0307"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 232.02,
+  "invoice_id": "INV-001-0000",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0308"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 123.46,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0309"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1297.79,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0310"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 273.49,
+  "invoice_id": "INV-001-0035",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0311"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 860.79,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0312"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 612.3,
+  "invoice_id": "INV-002-0007",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0313"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 399.95,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0314"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 407.51,
+  "invoice_id": "INV-005-0002",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0315"
+ },
+ {
+  "claim_type": null,
+  "claimed_amount_usd": 1326.71,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0316"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 399.96,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0317"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 97.3,
+  "invoice_id": "INV-006-0009",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0318"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 197.2,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0319"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 1715.54,
+  "invoice_id": "INV-003-0012",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0320"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 767.12,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0321"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1268.06,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0322"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1285.7,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0323"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 482.75,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0324"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 1375.25,
+  "invoice_id": "INV-004-0012",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0325"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 40.9,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0326"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 40.6,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0327"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 45.68,
+  "invoice_id": "INV-001-0034",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0328"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 322.79,
+  "invoice_id": "INV-005-0006",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0329"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 86.8,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0330"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 395.9,
+  "invoice_id": "INV-002-0007",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0331"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 45.82,
+  "invoice_id": "INV-001-0042",
+  "promo_id": null,
+  "is_resubmission": true,
+  "method": "regex",
+  "claim_id": "CLM-0332"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 84.46,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0333"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 3614.58,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0334"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 1326.82,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": true,
+  "method": "regex",
+  "claim_id": "CLM-0335"
+ },
+ {
+  "claim_type": null,
+  "claimed_amount_usd": 587.4,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0336"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 1520.69,
+  "invoice_id": "INV-002-0000",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0337"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 106.2,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0338"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 277.13,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0339"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1446.4,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0340"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 428.9,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0341"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 367.88,
+  "invoice_id": "INV-002-0001",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0342"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 207.22,
+  "invoice_id": "INV-002-0001",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0343"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 885.44,
+  "invoice_id": "INV-005-0012",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0344"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 198.98,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0345"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 3414.0,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0346"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 76.16,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0347"
+ },
+ {
+  "claim_type": null,
+  "claimed_amount_usd": 1897.12,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0348"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 429.92,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0349"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 708.61,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0350"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 40.07,
+  "invoice_id": "INV-001-0018",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0351"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 1800.97,
+  "invoice_id": "INV-005-0010",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0352"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 1398.63,
+  "invoice_id": "INV-004-0009",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0353"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 856.28,
+  "invoice_id": "INV-006-0012",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0354"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 305.37,
+  "invoice_id": "INV-005-0004",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0355"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 1207.61,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0356"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 195.52,
+  "invoice_id": "INV-006-0010",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0357"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 66.69,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0358"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 1188.29,
+  "invoice_id": "INV-005-0006",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0359"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 887.63,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0360"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 169.1,
+  "invoice_id": "INV-003-0014",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0361"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 983.99,
+  "invoice_id": "INV-004-0011",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0362"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 748.51,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0363"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 1175.99,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0364"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 195.3,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0365"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 102.41,
+  "invoice_id": "INV-001-0024",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0366"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 80.9,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0367"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 128.6,
+  "invoice_id": "INV-002-0004",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0368"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 89.95,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0369"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 382.33,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0370"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 40.05,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0371"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 384.44,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0372"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 46.7,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0373"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 40.53,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0374"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 78.57,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0375"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 314.09,
+  "invoice_id": "INV-004-0017",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0376"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 70.52,
+  "invoice_id": "INV-003-0002",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0377"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 182.58,
+  "invoice_id": "INV-005-0006",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0378"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 616.64,
+  "invoice_id": "INV-006-0015",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0379"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 284.15,
+  "invoice_id": "INV-005-0002",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0380"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 72.29,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0381"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 623.43,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0382"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 166.95,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0383"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 1336.47,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0384"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 1277.7,
+  "invoice_id": "INV-001-0028",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0385"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 162.09,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0386"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 582.62,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0387"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 39.83,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0388"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 337.72,
+  "invoice_id": "INV-006-0005",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0389"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 5081.91,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0390"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 928.86,
+  "invoice_id": "INV-001-0041",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0391"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 341.82,
+  "invoice_id": "INV-003-0000",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0392"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 310.1,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0393"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 40.22,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0394"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 231.52,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0395"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 39.69,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0396"
+ },
+ {
+  "claim_type": null,
+  "claimed_amount_usd": 1834.29,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0397"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 193.17,
+  "invoice_id": "INV-004-0021",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0398"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 292.83,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0399"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 452.17,
+  "invoice_id": "INV-006-0001",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0400"
+ },
+ {
+  "claim_type": null,
+  "claimed_amount_usd": 1215.76,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0401"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 1154.23,
+  "invoice_id": "INV-003-0002",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0402"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 327.11,
+  "invoice_id": "INV-003-0008",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0403"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 288.41,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0404"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1385.54,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0405"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 324.26,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0406"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 3269.22,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0407"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 597.43,
+  "invoice_id": "INV-003-0010",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0408"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1082.5,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0409"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 150.76,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0410"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 145.72,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0411"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 952.1,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0412"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 234.62,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0413"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 726.78,
+  "invoice_id": "INV-006-0016",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0414"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 449.35,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0415"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 89.59,
+  "invoice_id": "INV-004-0005",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0416"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 46.05,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": true,
+  "method": "regex",
+  "claim_id": "CLM-0417"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 609.02,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0418"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 217.18,
+  "invoice_id": "INV-004-0009",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0419"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 394.71,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0420"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 82.2,
+  "invoice_id": "INV-004-0021",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0421"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 325.11,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0422"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 39.45,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0423"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 283.55,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0424"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 339.65,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0425"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 104.89,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0426"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 285.84,
+  "invoice_id": "INV-003-0014",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0427"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 394.92,
+  "invoice_id": "INV-006-0004",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0428"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 483.33,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0429"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 120.68,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0430"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 39.91,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0431"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1067.15,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0432"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 40.52,
+  "invoice_id": "INV-006-0007",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0433"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 39.59,
+  "invoice_id": "INV-006-0012",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0434"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 72.9,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0435"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1603.42,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0436"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 1405.04,
+  "invoice_id": "INV-004-0014",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0437"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 76.85,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0438"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 780.74,
+  "invoice_id": "INV-002-0010",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0439"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 40.18,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0440"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 117.45,
+  "invoice_id": "INV-006-0007",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0441"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1554.15,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0442"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 39.05,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0443"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 306.76,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0444"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 42.66,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": true,
+  "method": "regex",
+  "claim_id": "CLM-0445"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 900.68,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0446"
+ },
+ {
+  "claim_type": null,
+  "claimed_amount_usd": 416.1,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0447"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1387.76,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0448"
+ },
+ {
+  "claim_type": null,
+  "claimed_amount_usd": 1010.26,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0449"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 162.69,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0450"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 40.77,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0451"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 465.76,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0452"
+ },
+ {
+  "claim_type": "Co-op Marketing",
+  "claimed_amount_usd": 1180.35,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0453"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 461.33,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0454"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 1604.37,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0455"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 395.02,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0456"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 887.6,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0457"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 911.96,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0458"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 96.46,
+  "invoice_id": "INV-005-0004",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0459"
+ },
+ {
+  "claim_type": null,
+  "claimed_amount_usd": 1335.3,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0460"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 150.6,
+  "invoice_id": "INV-002-0005",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0461"
+ },
+ {
+  "claim_type": null,
+  "claimed_amount_usd": 1279.31,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0462"
+ },
+ {
+  "claim_type": "Shortage",
+  "claimed_amount_usd": 50.87,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0463"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 591.08,
+  "invoice_id": "INV-002-0003",
+  "promo_id": null,
+  "is_resubmission": true,
+  "method": "regex",
+  "claim_id": "CLM-0464"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 239.91,
+  "invoice_id": "INV-003-0005",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0465"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 65.02,
+  "invoice_id": "INV-002-0006",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0466"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 39.3,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0467"
+ },
+ {
+  "claim_type": null,
+  "claimed_amount_usd": 724.57,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0468"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 77.89,
+  "invoice_id": "INV-002-0005",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0469"
+ },
+ {
+  "claim_type": null,
+  "claimed_amount_usd": 1050.64,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0470"
+ },
+ {
+  "claim_type": "Freight",
+  "claimed_amount_usd": 128.27,
+  "invoice_id": "INV-001-0025",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0471"
+ },
+ {
+  "claim_type": null,
+  "claimed_amount_usd": 884.96,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0472"
+ },
+ {
+  "claim_type": "Price Difference",
+  "claimed_amount_usd": 674.3,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0473"
+ },
+ {
+  "claim_type": "Promo Discount Support",
+  "claimed_amount_usd": 1553.69,
+  "invoice_id": "INV-002-0001",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0474"
+ },
+ {
+  "claim_type": "Damages",
+  "claimed_amount_usd": 39.65,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0475"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 196.13,
+  "invoice_id": "INV-006-0010",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0476"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 399.36,
+  "invoice_id": "INV-006-0014",
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0477"
+ },
+ {
+  "claim_type": "Listing Fee",
+  "claimed_amount_usd": 592.49,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0478"
+ },
+ {
+  "claim_type": null,
+  "claimed_amount_usd": 438.91,
+  "invoice_id": null,
+  "promo_id": null,
+  "is_resubmission": false,
+  "method": "regex",
+  "claim_id": "CLM-0479"
+ }
+]
