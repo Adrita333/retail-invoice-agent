@@ -1,0 +1,13 @@
+sku,description,market,list_price_usd,pack_size,effective_from
+SKU-PAD-DAY-10,"Blood Day Pad 24cm, 10s",SG,4.9,10,2025-07-01
+SKU-PAD-NGT-10,"Blood Night Pad 33cm, 10s",SG,6.2,10,2025-07-01
+SKU-PAD-LIN-20,"Blood Liner 15cm, 20s",SG,3.4,20,2025-07-01
+SKU-DIA-NB-32,"Blood Diaper Newborn, 32s",SG,11.5,32,2025-07-01
+SKU-PAD-DAY-10,"Blood Day Pad 24cm, 10s",MY,2.6,10,2025-07-01
+SKU-PAD-NGT-10,"Blood Night Pad 33cm, 10s",MY,3.3,10,2025-07-01
+SKU-PAD-LIN-20,"Blood Liner 15cm, 20s",MY,1.8,20,2025-07-01
+SKU-DIA-NB-32,"Blood Diaper Newborn, 32s",MY,6.1,32,2025-07-01
+SKU-PAD-DAY-10,"Blood Day Pad 24cm, 10s",ID,2.2,10,2025-07-01
+SKU-PAD-NGT-10,"Blood Night Pad 33cm, 10s",ID,2.8,10,2025-07-01
+SKU-PAD-LIN-20,"Blood Liner 15cm, 20s",ID,1.5,20,2025-07-01
+SKU-DIA-NB-32,"Blood Diaper Newborn, 32s",ID,5.4,32,2025-07-01

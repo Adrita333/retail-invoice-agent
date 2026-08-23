@@ -1,0 +1,481 @@
+claim_id,retailer_id,claim_date,invoice_id,promo_id,claim_type,claimed_amount_usd,Raw_Claim_Text,supporting_doc_ref
+CLM-0000,RET-005,2026-08-23,INV-005-0004,PRM-0028,Co-op Marketing,1624.71,"CO-OP MARKETING CONTRIBUTION PAYDAY SALE USD 1,624.71",DOC-0000.pdf
+CLM-0001,RET-006,2026-01-17,INV-006-0008,PRM-0035,Promo Discount Support,877.45,CLAIMING PROMOTIONAL DISCOUNT SUPPORT BACK-TO-CAMPUS - TOTAL USD 877.45. SEE ATTACHED REMITTANCE,DOC-0001.pdf
+CLM-0002,RET-001,2026-01-04,INV-001-0023,,Shortage,191.12,"short delivery on INV-001-0023. shortfall value USD 191.12  //fwd from finance team, pls action",
+CLM-0003,RET-005,2026-07-01,INV-005-0010,PRM-0026,Promo Discount Support,484.78,CLAIMING PROMOTIONAL DISCOUNT SUPPORT BACK-TO-CAMPUS - TOTAL USD 484.78. SEE ATTACHED REMITTANCE,
+CLM-0004,RET-003,2026-01-27,INV-003-0009,PRM-0016,Co-op Marketing,1286.03,"co-op marketing contribution Diaper Intro Offer USD 1,286.03",
+CLM-0005,RET-002,2025-11-09,INV-002-0004,,Freight,265.73,freight recovery USD 265.73 inv INV-002-0004,
+CLM-0006,RET-001,2026-08-18,INV-001-0006,,Listing Fee,640.01,Annual listing fee new SKU. $640.01. per trade terms,DOC-0006.pdf
+CLM-0007,RET-001,2025-11-13,INV-001-0042,,Damages,45.82,"damaged stock on delivery INV-001-0042, claiming $45.82  //fwd from finance team, pls action",
+CLM-0008,RET-005,2026-06-10,INV-005-0010,,Damages,193.25,Goods received damaged. Raising claim $193.25. photos w/ store mgr,
+CLM-0009,RET-004,2026-08-23,INV-004-0014,,Co-op Marketing,3614.58,"CO-OP MARKETING CONTRIBUTION BACK-TO-CAMPUS USD 3,614.58",DOC-0009.pdf
+CLM-0010,RET-003,2026-05-03,INV-003-0002,PRM-0015,Co-op Marketing,1345.77,"marketing coop claim - $1,345.77",DOC-0010.pdf
+CLM-0011,RET-004,2026-08-23,INV-004-0006,PRM-0022,Promo Discount Support,1326.82,"claiming promotional discount support Mid-Year Mega - total $1,326.82. see attached remittance",DOC-0011.pdf
+CLM-0012,RET-005,2026-08-23,INV-005-0009,,Damages,435.05,DMG claim $435.05 - pls credit note,DOC-0012.pdf
+CLM-0013,RET-004,2026-08-23,INV-004-0006,,Price Difference,46.05,invoice priced higher than trade terms. diff $46.05,DOC-0013.pdf
+CLM-0014,RET-001,2026-06-18,INV-001-0039,,Damages,42.66,DMG CLAIM $42.66 - PLS CREDIT NOTE,DOC-0014.pdf
+CLM-0015,RET-002,2026-06-18,INV-002-0003,,Listing Fee,591.08,LISTING FEE Q3 - $591.08 - ref INV-002-0003,DOC-0015.pdf
+CLM-0016,RET-002,2026-06-11,INV-002-0008,PRM-0008,Promo Discount Support,1516.78,"Deduction taken: Diaper Intro Offer support. USD 1,516.78. contact acct team for query",DOC-0016.pdf
+CLM-0017,RET-003,2026-05-26,INV-003-0007,,Promo Discount Support,1058.21,"CLAIMING PROMOTIONAL DISCOUNT SUPPORT DIAPER INTRO OFFER - TOTAL USD 1,058.21. SEE ATTACHED REMITTANCE",
+CLM-0018,RET-004,2026-08-23,INV-004-0010,,Shortage,151.61,SHORT DELIVERY ON INV-004-0010. SHORTFALL VALUE USD 151.61,DOC-0018.pdf
+CLM-0019,RET-003,2026-04-11,INV-003-0005,,Listing Fee,591.57,"LISTING FEE Q3 - $591.57 - REF INV-003-0005  //fwd from finance team, pls action",DOC-0019.pdf
+CLM-0020,RET-003,2026-04-06,INV-003-0013,PRM-0016,Promo Discount Support,1320.27,"Pls process promo support for Diaper Intro Offer as per agreement. amt USD 1,320.27. inv ref INV-003-0013  //fwd from finance team, pls action",DOC-0020.pdf
+CLM-0021,RET-001,2026-04-03,INV-001-0018,,Damages,40.96,"damaged stock on delivery INV-001-0018, claiming USD 40.96",
+CLM-0022,RET-002,2026-06-16,INV-002-0008,,Freight,383.22,delivery charge back $383.22,
+CLM-0023,RET-001,2026-02-21,INV-001-0043,PRM-0003,Promo Discount Support,422.05,Deduction taken: Ramadan Bundle support. USD 422.05. contact acct team for query,DOC-0023.pdf
+CLM-0024,RET-003,2026-04-26,INV-003-0011,,Shortage,318.18,short delivery on INV-003-0011. shortfall value USD 318.18,DOC-0024.pdf
+CLM-0025,RET-002,2026-01-15,INV-002-0011,,Listing Fee,589.61,"ANNUAL LISTING FEE NEW SKU. USD 589.61. PER TRADE TERMS  //fwd from finance team, pls action",DOC-0025.pdf
+CLM-0026,RET-004,2025-11-27,INV-004-0028,,Shortage,39.34,short delivery on INV-004-0028. shortfall value $39.34,
+CLM-0027,RET-001,2026-06-01,INV-001-0001,PRM-0002,Promo Discount Support,895.35,Pls process promo support for Ramadan Bundle as per agreement. amt $895.35. inv ref INV-001-0001,DOC-0027.pdf
+CLM-0028,RET-005,2025-12-26,INV-005-0006,,Listing Fee,196.19,ANNUAL LISTING FEE NEW SKU. USD 196.19. PER TRADE TERMS,DOC-0028.pdf
+CLM-0029,RET-005,2026-07-22,INV-005-0014,,Shortage,208.28,"qty shortage claim $208.28  //fwd from finance team, pls action",DOC-0029.pdf
+CLM-0030,RET-003,2026-04-13,INV-003-0011,PRM-0013,Co-op Marketing,1252.98,"CO-OP MARKETING CONTRIBUTION SHELF RESET $1,252.98  //fwd from finance team, pls action",DOC-0030.pdf
+CLM-0031,RET-005,2026-04-12,INV-005-0005,,Freight,226.93,FREIGHT RECOVERY USD 226.93 INV INV-005-0005,DOC-0031.pdf
+CLM-0032,RET-004,2026-08-08,INV-004-0015,,Co-op Marketing,3495.5,"marketing coop claim - USD 3,495.50",DOC-0032.pdf
+CLM-0033,RET-005,2026-08-23,INV-005-0004,PRM-0028,Co-op Marketing,1624.71,"CO-OP MARKETING CONTRIBUTION PAYDAY SALE USD 1,624.71  (resubmission - not yet paid?)",DOC-0033.pdf
+CLM-0034,RET-004,2026-07-03,INV-004-0005,PRM-0018,Promo Discount Support,896.96,claiming promotional discount support Festive Gifting - total USD 896.96. see attached remittance,DOC-0034.pdf
+CLM-0035,RET-003,2026-04-22,INV-003-0003,,Shortage,245.01,short delivery on INV-003-0003. shortfall value USD 245.01,
+CLM-0036,RET-004,2026-02-14,INV-004-0023,,Freight,76.55,"freight recovery $76.55 inv INV-004-0023  //fwd from finance team, pls action",
+CLM-0037,RET-006,2026-05-19,INV-006-0006,,Freight,436.4,"delivery charge back USD 436.40  //fwd from finance team, pls action",DOC-0037.pdf
+CLM-0038,RET-004,2025-12-22,INV-004-0027,PRM-0018,Co-op Marketing,900.96,co-op marketing contribution Festive Gifting $900.96,DOC-0038.pdf
+CLM-0039,RET-003,2026-03-26,INV-003-0013,,Damages,53.61,Goods received damaged. Raising claim $53.61. photos w/ store mgr,DOC-0039.pdf
+CLM-0040,RET-004,2026-07-22,INV-004-0003,,Damages,124.77,"DAMAGED STOCK ON DELIVERY INV-004-0003, CLAIMING $124.77",
+CLM-0041,RET-002,2026-08-23,INV-002-0007,PRM-0009,Promo Discount Support,1133.63,"claiming promotional discount support Diaper Intro Offer - total $1,133.63. see attached remittance  //fwd from finance team, pls action",DOC-0041.pdf
+CLM-0042,RET-006,2026-01-18,INV-006-0012,PRM-0033,Listing Fee,5922.31,"Annual listing fee new SKU. USD 5,922.31. per trade terms",
+CLM-0043,RET-003,2026-04-13,INV-003-0016,,Damages,256.62,Goods received damaged. Raising claim USD 256.62. photos w/ store mgr,
+CLM-0044,RET-005,2025-10-31,INV-005-0011,,Shortage,39.75,short delivery on INV-005-0011. shortfall value $39.75,
+CLM-0045,RET-001,2026-04-15,INV-001-0032,,Price Difference,152.98,INVOICE PRICED HIGHER THAN TRADE TERMS. DIFF $152.98,
+CLM-0046,RET-005,2025-12-09,INV-005-0000,PRM-0029,Promo Discount Support,315.04,claiming promotional discount support Shelf Reset - total $315.04. see attached remittance,DOC-0046.pdf
+CLM-0047,RET-001,2025-10-14,INV-001-0025,,Freight,141.35,freight recovery USD 141.35 inv INV-001-0025,
+CLM-0048,RET-003,2026-04-02,INV-003-0007,PRM-0012,Co-op Marketing,1108.69,"marketing coop claim - USD 1,108.69  //fwd from finance team, pls action",DOC-0048.pdf
+CLM-0049,RET-004,2026-08-23,INV-004-0012,PRM-0020,Co-op Marketing,1392.98,"MARKETING COOP CLAIM - $1,392.98",
+CLM-0050,RET-002,2025-11-19,INV-002-0011,PRM-0008,Promo Discount Support,1498.19,"Deduction taken: Diaper Intro Offer support. $1,498.19. contact acct team for query",DOC-0050.pdf
+CLM-0051,RET-004,2026-08-23,INV-004-0033,PRM-0019,Damages,342.61,"damaged stock on delivery INV-004-0033, claiming USD 342.61",
+CLM-0052,RET-006,2026-08-23,INV-006-0002,PRM-0034,Co-op Marketing,699.95,marketing coop claim - $699.95,
+CLM-0053,RET-005,2025-11-29,INV-005-0006,,Price Difference,129.48,"PRICE DIFF VS AGREED LIST, CLAIMING USD 129.48, INV INV-005-0006",DOC-0053.pdf
+CLM-0054,RET-003,2026-05-31,INV-003-0003,PRM-0016,Co-op Marketing,1280.11,"MARKETING COOP CLAIM - $1,280.11",
+CLM-0055,RET-002,2025-12-01,INV-002-0011,PRM-0007,Co-op Marketing,1275.23,"marketing coop claim - USD 1,275.23",DOC-0055.pdf
+CLM-0056,RET-006,2026-02-13,INV-006-0008,PRM-0035,Promo Discount Support,877.45,CLAIMING PROMOTIONAL DISCOUNT SUPPORT BACK-TO-CAMPUS - TOTAL USD 877.45. SEE ATTACHED REMITTANCE  (resubmission - not yet paid?),DOC-0056.pdf
+CLM-0057,RET-006,2025-10-20,INV-006-0011,PRM-0035,Co-op Marketing,1070.39,"co-op marketing contribution Back-to-Campus USD 1,070.39",DOC-0057.pdf
+CLM-0058,RET-005,2026-08-23,INV-005-0003,,Damages,245.47,"damaged stock on delivery INV-005-0003, claiming $245.47",
+CLM-0059,RET-001,2026-01-08,INV-001-0021,,Freight,225.53,FREIGHT RECOVERY $225.53 INV INV-001-0021,DOC-0059.pdf
+CLM-0060,RET-003,2025-12-11,INV-003-0015,,Listing Fee,604.45,LISTING FEE Q3 - USD 604.45 - ref INV-003-0015,DOC-0060.pdf
+CLM-0061,RET-005,2026-08-23,INV-005-0004,,Damages,52.52,DMG claim USD 52.52 - pls credit note,DOC-0061.pdf
+CLM-0062,RET-003,2026-08-08,INV-003-0008,,Freight,345.35,freight recovery $345.35 inv INV-003-0008,DOC-0062.pdf
+CLM-0063,RET-004,2026-05-12,INV-004-0003,PRM-0022,Co-op Marketing,1343.87,"co-op marketing contribution Mid-Year Mega $1,343.87",DOC-0063.pdf
+CLM-0064,RET-004,2026-02-07,INV-004-0025,,Damages,39.55,"damaged stock on delivery INV-004-0025, claiming USD 39.55",DOC-0064.pdf
+CLM-0065,RET-002,2026-08-23,INV-002-0005,,Freight,350.81,"freight recovery USD 350.81 inv INV-002-0005  //fwd from finance team, pls action",DOC-0065.pdf
+CLM-0066,RET-005,2026-04-10,INV-005-0005,,Damages,39.63,"damaged stock on delivery INV-005-0005, claiming USD 39.63",DOC-0066.pdf
+CLM-0067,RET-002,2025-12-28,INV-002-0011,,Listing Fee,899.91,LISTING FEE Q3 - $899.91 - ref INV-002-0011,
+CLM-0068,RET-005,2026-05-06,INV-005-0013,,Freight,233.96,freight recovery USD 233.96 inv INV-005-0013,DOC-0068.pdf
+CLM-0069,RET-004,2025-11-30,INV-004-0028,PRM-0018,Co-op Marketing,918.35,marketing coop claim - $918.35,DOC-0069.pdf
+CLM-0070,RET-001,2026-01-18,INV-001-0017,,Shortage,128.09,"QTY SHORTAGE CLAIM USD 128.09  //fwd from finance team, pls action",DOC-0070.pdf
+CLM-0071,RET-004,2026-08-23,INV-004-0032,,Damages,189.78,"damaged stock on delivery INV-004-0032, claiming USD 189.78  //fwd from finance team, pls action",DOC-0071.pdf
+CLM-0072,RET-006,2026-04-25,INV-006-0015,,Damages,40.93,"damaged stock on delivery INV-006-0015, claiming USD 40.93",
+CLM-0073,RET-004,2026-08-23,INV-004-0026,,Price Difference,581.16,INVOICE PRICED HIGHER THAN TRADE TERMS. DIFF $581.16,DOC-0073.pdf
+CLM-0074,RET-005,2026-07-02,INV-005-0012,,Shortage,114.58,short delivery on INV-005-0012. shortfall value USD 114.58,
+CLM-0075,RET-004,2025-12-22,INV-004-0021,,Shortage,177.14,qty shortage claim USD 177.14,DOC-0075.pdf
+CLM-0076,RET-003,2026-04-13,INV-003-0007,PRM-0012,Promo Discount Support,1086.51,"Pls process promo support for Shelf Reset as per agreement. amt $1,086.51. inv ref INV-003-0007",DOC-0076.pdf
+CLM-0077,RET-004,2026-08-03,INV-004-0009,PRM-0019,Promo Discount Support,1402.79,"claiming promotional discount support Shelf Reset - total USD 1,402.79. see attached remittance",DOC-0077.pdf
+CLM-0078,RET-001,2026-01-04,INV-001-0007,,Shortage,114.5,"QTY SHORTAGE CLAIM $114.50  //fwd from finance team, pls action",
+CLM-0079,RET-004,2026-08-14,INV-004-0010,PRM-0021,Promo Discount Support,433.97,Deduction taken: Back-to-Campus support. $433.97. contact acct team for query,
+CLM-0080,RET-002,2026-06-18,INV-002-0006,PRM-0009,Co-op Marketing,1122.76,"CO-OP MARKETING CONTRIBUTION DIAPER INTRO OFFER USD 1,122.76",DOC-0080.pdf
+CLM-0081,RET-004,2025-12-26,INV-004-0019,PRM-0020,Co-op Marketing,1604.29,"marketing coop claim - $1,604.29  //fwd from finance team, pls action",
+CLM-0082,RET-005,2025-12-23,INV-005-0006,PRM-0024,Damages,293.47,"Goods received damaged. Raising claim USD 293.47. photos w/ store mgr  //fwd from finance team, pls action",DOC-0082.pdf
+CLM-0083,RET-004,2026-01-03,INV-004-0020,PRM-0018,Co-op Marketing,899.79,marketing coop claim - $899.79,DOC-0083.pdf
+CLM-0084,RET-006,2026-06-23,INV-006-0004,,Co-op Marketing,3495.27,"MARKETING COOP CLAIM - USD 3,495.27",
+CLM-0085,RET-005,2025-12-10,INV-005-0000,,Shortage,102.87,short delivery on INV-005-0000. shortfall value $102.87,DOC-0085.pdf
+CLM-0086,RET-004,2026-06-02,INV-004-0018,,Damages,244.62,"damaged stock on delivery INV-004-0018, claiming $244.62",DOC-0086.pdf
+CLM-0087,RET-006,2025-11-29,INV-006-0010,,Promo Discount Support,1715.3,"Pls process promo support for Shelf Reset as per agreement. amt $1,715.30. inv ref INV-006-0010",DOC-0087.pdf
+CLM-0088,RET-002,2026-03-04,INV-002-0011,,Listing Fee,590.07,"ANNUAL LISTING FEE NEW SKU. USD 590.07. PER TRADE TERMS  //fwd from finance team, pls action",
+CLM-0089,RET-001,2026-06-29,INV-001-0004,PRM-0000,Promo Discount Support,1326.65,"Pls process promo support for Payday Sale as per agreement. amt $1,326.65. inv ref INV-001-0004",DOC-0089.pdf
+CLM-0090,RET-004,2026-08-23,INV-004-0014,,Freight,245.97,DELIVERY CHARGE BACK USD 245.97,DOC-0090.pdf
+CLM-0091,RET-002,2026-05-23,INV-002-0012,,Price Difference,63.4,"price diff vs agreed list, claiming $63.40, inv INV-002-0012",DOC-0091.pdf
+CLM-0092,RET-002,2026-04-22,INV-002-0003,,Damages,54.3,DMG claim $54.30 - pls credit note,DOC-0092.pdf
+CLM-0093,RET-001,2026-01-17,INV-001-0033,,Freight,93.54,delivery charge back USD 93.54,
+CLM-0094,RET-005,2026-08-22,INV-005-0014,,Freight,301.57,"delivery charge back $301.57  //fwd from finance team, pls action",DOC-0094.pdf
+CLM-0095,RET-004,2026-08-23,INV-004-0022,,Freight,258.3,"DELIVERY CHARGE BACK USD 258.30  //fwd from finance team, pls action",DOC-0095.pdf
+CLM-0096,RET-003,2026-03-06,INV-003-0012,,Freight,347.26,FREIGHT RECOVERY $347.26 INV INV-003-0012,DOC-0096.pdf
+CLM-0097,RET-003,2026-03-01,INV-003-0012,,Damages,214.08,DMG claim $214.08 - pls credit note,DOC-0097.pdf
+CLM-0098,RET-004,2026-07-31,INV-004-0024,,Damages,176.28,DMG claim $176.28 - pls credit note,
+CLM-0099,RET-006,2026-07-09,INV-006-0007,PRM-0032,Co-op Marketing,323.05,co-op marketing contribution Diaper Intro Offer USD 323.05,
+CLM-0100,RET-002,2026-08-23,INV-002-0007,,Shortage,70.91,short delivery on INV-002-0007. shortfall value $70.91,DOC-0100.pdf
+CLM-0101,RET-004,2026-08-23,INV-004-0014,,Damages,40.7,DMG claim USD 40.70 - pls credit note,DOC-0101.pdf
+CLM-0102,RET-003,2026-03-17,INV-003-0016,,Damages,348.45,"damaged stock on delivery INV-003-0016, claiming USD 348.45  //fwd from finance team, pls action",
+CLM-0103,RET-001,2026-07-19,INV-001-0006,,Freight,228.43,"DELIVERY CHARGE BACK $228.43  //fwd from finance team, pls action",
+CLM-0104,RET-003,2026-01-17,INV-003-0009,,Price Difference,390.36,invoice priced higher than trade terms. diff $390.36,DOC-0104.pdf
+CLM-0105,RET-005,2026-04-21,INV-005-0005,,Shortage,40.42,short delivery on INV-005-0005. shortfall value USD 40.42,
+CLM-0106,RET-001,2026-01-28,INV-001-0023,,Shortage,191.12,"short delivery on INV-001-0023. shortfall value USD 191.12  //fwd from finance team, pls action  (resubmission - not yet paid?)",DOC-0106.pdf
+CLM-0107,RET-002,2026-06-16,INV-002-0001,,Listing Fee,886.56,LISTING FEE Q3 - USD 886.56 - ref INV-002-0001,DOC-0107.pdf
+CLM-0108,RET-006,2026-04-08,INV-006-0014,,Damages,222.98,"damaged stock on delivery INV-006-0014, claiming $222.98",DOC-0108.pdf
+CLM-0109,RET-004,2026-07-21,INV-004-0005,,Price Difference,50.96,"price diff vs agreed list, claiming $50.96, inv INV-004-0005",DOC-0109.pdf
+CLM-0110,RET-001,2026-02-22,INV-001-0016,PRM-0001,Co-op Marketing,1370.69,"MARKETING COOP CLAIM - $1,370.69",DOC-0110.pdf
+CLM-0111,RET-002,2025-11-21,INV-002-0011,,Shortage,130.38,"QTY SHORTAGE CLAIM $130.38  //fwd from finance team, pls action",DOC-0111.pdf
+CLM-0112,RET-006,2026-04-14,INV-006-0006,,Damages,104.83,"damaged stock on delivery INV-006-0006, claiming USD 104.83",
+CLM-0113,RET-001,2026-06-13,INV-001-0019,,Shortage,105.22,SHORT DELIVERY ON INV-001-0019. SHORTFALL VALUE USD 105.22,DOC-0113.pdf
+CLM-0114,RET-004,2026-07-09,INV-004-0009,,Freight,232.27,freight recovery USD 232.27 inv INV-004-0009,DOC-0114.pdf
+CLM-0115,RET-005,2026-02-22,INV-005-0001,,Damages,73.64,Goods received damaged. Raising claim $73.64. photos w/ store mgr,DOC-0115.pdf
+CLM-0116,RET-001,2026-02-11,INV-001-0000,,Price Difference,251.6,INVOICE PRICED HIGHER THAN TRADE TERMS. DIFF $251.60,
+CLM-0117,RET-006,2025-12-24,INV-006-0005,,Shortage,239.82,"short delivery on INV-006-0005. shortfall value USD 239.82  //fwd from finance team, pls action",DOC-0117.pdf
+CLM-0118,RET-001,2026-03-16,INV-001-0043,,Listing Fee,198.24,"Annual listing fee new SKU. $198.24. per trade terms  //fwd from finance team, pls action",DOC-0118.pdf
+CLM-0119,RET-003,2025-10-22,INV-003-0012,PRM-0017,Co-op Marketing,690.49,marketing coop claim - $690.49,DOC-0119.pdf
+CLM-0120,RET-003,2026-05-22,INV-003-0014,,Freight,238.99,"delivery charge back $238.99  //fwd from finance team, pls action",DOC-0120.pdf
+CLM-0121,RET-003,2026-05-16,INV-003-0003,PRM-0013,Promo Discount Support,1032.84,"CLAIMING PROMOTIONAL DISCOUNT SUPPORT SHELF RESET - TOTAL $1,032.84. SEE ATTACHED REMITTANCE",DOC-0121.pdf
+CLM-0122,RET-002,2026-05-14,INV-002-0003,,Shortage,67.85,"short delivery on INV-002-0003. shortfall value $67.85  //fwd from finance team, pls action",DOC-0122.pdf
+CLM-0123,RET-002,2026-08-23,INV-002-0007,PRM-0010,Promo Discount Support,751.51,Pls process promo support for Payday Sale as per agreement. amt $751.51. inv ref INV-002-0007,DOC-0123.pdf
+CLM-0124,RET-005,2026-07-09,INV-005-0010,,Promo Discount Support,1129.86,"DEDUCTION TAKEN: BACK-TO-CAMPUS SUPPORT. $1,129.86. CONTACT ACCT TEAM FOR QUERY",DOC-0124.pdf
+CLM-0125,RET-002,2026-04-19,INV-002-0003,PRM-0010,Promo Discount Support,756.99,DEDUCTION TAKEN: PAYDAY SALE SUPPORT. USD 756.99. CONTACT ACCT TEAM FOR QUERY,DOC-0125.pdf
+CLM-0126,RET-001,2026-03-07,INV-001-0043,,Damages,127.99,"damaged stock on delivery INV-001-0043, claiming $127.99",DOC-0126.pdf
+CLM-0127,RET-002,2026-08-07,INV-002-0010,,Freight,368.07,freight recovery USD 368.07 inv INV-002-0010,DOC-0127.pdf
+CLM-0128,RET-006,2026-02-09,INV-006-0001,PRM-0033,Co-op Marketing,1123.78,"CO-OP MARKETING CONTRIBUTION SHELF RESET $1,123.78",
+CLM-0129,RET-001,2026-03-25,INV-001-0035,,Price Difference,142.82,INVOICE PRICED HIGHER THAN TRADE TERMS. DIFF USD 142.82,DOC-0129.pdf
+CLM-0130,RET-001,2026-08-23,INV-001-0002,PRM-0001,Co-op Marketing,1368.09,"marketing coop claim - $1,368.09",DOC-0130.pdf
+CLM-0131,RET-002,2026-03-31,INV-002-0000,,Listing Fee,398.27,LISTING FEE Q3 - USD 398.27 - ref INV-002-0000,
+CLM-0132,RET-004,2026-01-15,INV-004-0028,,Listing Fee,914.32,"Annual listing fee new SKU. USD 914.32. per trade terms  //fwd from finance team, pls action",DOC-0132.pdf
+CLM-0133,RET-004,2025-09-26,INV-004-0013,,Shortage,39.14,"qty shortage claim USD 39.14  //fwd from finance team, pls action",
+CLM-0134,RET-004,2026-01-30,INV-004-0008,PRM-0019,Damages,318.51,GOODS RECEIVED DAMAGED. RAISING CLAIM USD 318.51. PHOTOS W/ STORE MGR,DOC-0134.pdf
+CLM-0135,RET-003,2026-03-29,INV-003-0005,PRM-0012,Co-op Marketing,1066.04,"marketing coop claim - $1,066.04",DOC-0135.pdf
+CLM-0136,RET-001,2026-03-17,INV-001-0030,,Freight,161.61,DELIVERY CHARGE BACK USD 161.61,DOC-0136.pdf
+CLM-0137,RET-004,2026-08-08,INV-004-0022,,Freight,438.54,freight recovery USD 438.54 inv INV-004-0022,DOC-0137.pdf
+CLM-0138,RET-006,2026-04-10,INV-006-0001,,Freight,156.86,freight recovery $156.86 inv INV-006-0001,DOC-0138.pdf
+CLM-0139,RET-006,2026-02-18,INV-006-0014,PRM-0032,Promo Discount Support,325.17,"claiming promotional discount support Diaper Intro Offer - total $325.17. see attached remittance  //fwd from finance team, pls action",DOC-0139.pdf
+CLM-0140,RET-006,2026-03-14,INV-006-0012,,Freight,239.51,delivery charge back $239.51,DOC-0140.pdf
+CLM-0141,RET-005,2026-05-23,INV-005-0013,,Price Difference,132.41,invoice priced higher than trade terms. diff USD 132.41,DOC-0141.pdf
+CLM-0142,RET-001,2026-04-13,INV-001-0010,PRM-0002,Co-op Marketing,892.94,CO-OP MARKETING CONTRIBUTION RAMADAN BUNDLE $892.94,
+CLM-0143,RET-006,2026-01-31,INV-006-0003,,Price Difference,86.19,"PRICE DIFF VS AGREED LIST, CLAIMING USD 86.19, INV INV-006-0003",
+CLM-0144,RET-005,2026-08-23,INV-005-0004,,Shortage,39.65,qty shortage claim USD 39.65,
+CLM-0145,RET-004,2026-05-01,INV-004-0025,PRM-0020,Promo Discount Support,1368.6,"Pls process promo support for Ramadan Bundle as per agreement. amt USD 1,368.60. inv ref INV-004-0025",
+CLM-0146,RET-006,2026-02-25,INV-006-0000,PRM-0030,Co-op Marketing,443.79,"CO-OP MARKETING CONTRIBUTION NIGHT PAD LAUNCH $443.79  //fwd from finance team, pls action",DOC-0146.pdf
+CLM-0147,RET-003,2026-08-23,INV-003-0008,,Shortage,114.82,short delivery on INV-003-0008. shortfall value $114.82,DOC-0147.pdf
+CLM-0148,RET-004,2026-06-19,INV-004-0002,,Damages,49.38,"DAMAGED STOCK ON DELIVERY INV-004-0002, CLAIMING $49.38",
+CLM-0149,RET-001,2026-07-26,INV-001-0003,,Damages,40.71,"damaged stock on delivery INV-001-0003, claiming $40.71",DOC-0149.pdf
+CLM-0150,RET-001,2026-08-17,INV-001-0022,PRM-0006,Co-op Marketing,449.69,co-op marketing contribution Night Pad Launch USD 449.69,DOC-0150.pdf
+CLM-0151,RET-005,2026-08-11,INV-005-0010,PRM-0026,Promo Discount Support,484.78,CLAIMING PROMOTIONAL DISCOUNT SUPPORT BACK-TO-CAMPUS - TOTAL USD 484.78. SEE ATTACHED REMITTANCE  (resubmission - not yet paid?),DOC-0151.pdf
+CLM-0152,RET-005,2026-03-22,INV-005-0013,,Listing Fee,610.43,"ANNUAL LISTING FEE NEW SKU. USD 610.43. PER TRADE TERMS  //fwd from finance team, pls action",
+CLM-0153,RET-002,2026-01-19,INV-002-0002,PRM-0008,Co-op Marketing,1491.8,"marketing coop claim - $1,491.80  //fwd from finance team, pls action",DOC-0153.pdf
+CLM-0154,RET-004,2026-08-14,INV-004-0006,PRM-0023,Co-op Marketing,1164.62,"marketing coop claim - $1,164.62",
+CLM-0155,RET-003,2026-04-02,INV-003-0013,,Listing Fee,594.89,LISTING FEE Q3 - $594.89 - ref INV-003-0013,DOC-0155.pdf
+CLM-0156,RET-006,2025-11-17,INV-006-0017,,Freight,149.02,DELIVERY CHARGE BACK USD 149.02,DOC-0156.pdf
+CLM-0157,RET-006,2026-08-23,INV-006-0002,PRM-0036,Damages,288.43,"damaged stock on delivery INV-006-0002, claiming $288.43",DOC-0157.pdf
+CLM-0158,RET-005,2026-06-12,INV-005-0013,,Price Difference,97.1,INVOICE PRICED HIGHER THAN TRADE TERMS. DIFF $97.10,DOC-0158.pdf
+CLM-0159,RET-005,2026-05-13,INV-005-0005,,Freight,79.47,delivery charge back $79.47,
+CLM-0160,RET-004,2025-12-17,INV-004-0027,,Price Difference,175.06,"invoice priced higher than trade terms. diff $175.06  //fwd from finance team, pls action",DOC-0160.pdf
+CLM-0161,RET-004,2026-08-23,INV-004-0006,,Listing Fee,602.8,LISTING FEE Q3 - USD 602.80 - ref INV-004-0006,DOC-0161.pdf
+CLM-0162,RET-003,2026-07-27,INV-003-0008,,Listing Fee,393.86,Annual listing fee new SKU. $393.86. per trade terms,DOC-0162.pdf
+CLM-0163,RET-003,2026-06-15,INV-003-0003,,Damages,186.41,DMG claim USD 186.41 - pls credit note,DOC-0163.pdf
+CLM-0164,RET-005,2026-05-25,INV-005-0002,PRM-0029,Promo Discount Support,312.42,Deduction taken: Shelf Reset support. USD 312.42. contact acct team for query,DOC-0164.pdf
+CLM-0165,RET-004,2026-03-03,INV-004-0021,,Price Difference,268.05,invoice priced higher than trade terms. diff $268.05,DOC-0165.pdf
+CLM-0166,RET-006,2025-11-16,INV-006-0012,,Damages,39.47,"DAMAGED STOCK ON DELIVERY INV-006-0012, CLAIMING USD 39.47",DOC-0166.pdf
+CLM-0167,RET-006,2026-04-29,INV-006-0006,,Listing Fee,603.78,LISTING FEE Q3 - USD 603.78 - ref INV-006-0006,
+CLM-0168,RET-002,2026-05-14,INV-002-0008,,Freight,301.81,delivery charge back $301.81,DOC-0168.pdf
+CLM-0169,RET-005,2026-04-22,INV-005-0007,,Damages,39.68,"damaged stock on delivery INV-005-0007, claiming $39.68",DOC-0169.pdf
+CLM-0170,RET-004,2026-08-12,INV-004-0010,PRM-0019,Co-op Marketing,1372.29,"MARKETING COOP CLAIM - $1,372.29",DOC-0170.pdf
+CLM-0171,RET-002,2026-04-14,INV-002-0003,,Listing Fee,908.02,Annual listing fee new SKU. $908.02. per trade terms,DOC-0171.pdf
+CLM-0172,RET-005,2026-08-09,INV-005-0010,PRM-0026,Promo Discount Support,480.75,claiming promotional discount support Back-to-Campus - total $480.75. see attached remittance,DOC-0172.pdf
+CLM-0173,RET-004,2026-04-07,INV-004-0008,,Price Difference,65.32,"PRICE DIFF VS AGREED LIST, CLAIMING USD 65.32, INV INV-004-0008  //fwd from finance team, pls action",DOC-0173.pdf
+CLM-0174,RET-006,2026-07-14,INV-006-0016,,Damages,39.8,"DMG claim $39.80 - pls credit note  //fwd from finance team, pls action",DOC-0174.pdf
+CLM-0175,RET-005,2026-06-13,INV-005-0010,PRM-0026,Co-op Marketing,503.58,marketing coop claim - USD 503.58,
+CLM-0176,RET-006,2025-11-16,INV-006-0009,PRM-0030,Promo Discount Support,447.24,Deduction taken: Night Pad Launch support. USD 447.24. contact acct team for query,DOC-0176.pdf
+CLM-0177,RET-004,2026-08-23,INV-004-0010,,Shortage,113.96,qty shortage claim $113.96,DOC-0177.pdf
+CLM-0178,RET-005,2026-05-27,INV-005-0008,PRM-0029,Co-op Marketing,313.01,"CO-OP MARKETING CONTRIBUTION SHELF RESET USD 313.01  //fwd from finance team, pls action",DOC-0178.pdf
+CLM-0179,RET-003,2026-05-06,INV-003-0014,PRM-0014,Co-op Marketing,860.71,"co-op marketing contribution Back-to-Campus USD 860.71  //fwd from finance team, pls action",DOC-0179.pdf
+CLM-0180,RET-003,2026-05-02,INV-003-0014,,Shortage,424.83,short delivery on INV-003-0014. shortfall value $424.83,
+CLM-0181,RET-005,2026-05-14,INV-005-0002,,Damages,39.91,"DMG claim USD 39.91 - pls credit note  //fwd from finance team, pls action",DOC-0181.pdf
+CLM-0182,RET-006,2026-03-18,INV-006-0005,,Shortage,170.88,QTY SHORTAGE CLAIM $170.88,DOC-0182.pdf
+CLM-0183,RET-002,2026-08-23,INV-002-0007,,Freight,216.35,delivery charge back USD 216.35,DOC-0183.pdf
+CLM-0184,RET-004,2026-01-11,INV-004-0027,,Price Difference,87.3,invoice priced higher than trade terms. diff USD 87.30,DOC-0184.pdf
+CLM-0185,RET-001,2025-12-06,INV-001-0041,,Damages,228.63,"DMG claim USD 228.63 - pls credit note  //fwd from finance team, pls action",DOC-0185.pdf
+CLM-0186,RET-006,2026-08-22,INV-006-0016,,Shortage,62.31,qty shortage claim USD 62.31,DOC-0186.pdf
+CLM-0187,RET-003,2026-03-04,INV-003-0009,PRM-0016,Co-op Marketing,1286.03,"co-op marketing contribution Diaper Intro Offer USD 1,286.03  (resubmission - not yet paid?)",DOC-0187.pdf
+CLM-0188,RET-003,2026-02-02,INV-003-0009,,Freight,373.22,"freight recovery $373.22 inv INV-003-0009  //fwd from finance team, pls action",DOC-0188.pdf
+CLM-0189,RET-004,2026-03-03,INV-004-0030,PRM-0018,Co-op Marketing,907.58,"co-op marketing contribution Festive Gifting USD 907.58  //fwd from finance team, pls action",DOC-0189.pdf
+CLM-0190,RET-002,2026-01-15,INV-002-0009,PRM-0009,Promo Discount Support,1128.03,"Pls process promo support for Diaper Intro Offer as per agreement. amt $1,128.03. inv ref INV-002-0009",DOC-0190.pdf
+CLM-0191,RET-005,2026-04-16,INV-005-0002,,Shortage,41.41,qty shortage claim USD 41.41,
+CLM-0192,RET-004,2026-01-07,INV-004-0023,,Freight,270.34,FREIGHT RECOVERY USD 270.34 INV INV-004-0023,DOC-0192.pdf
+CLM-0193,RET-001,2025-11-04,INV-001-0029,PRM-0005,Promo Discount Support,1044.86,"DEDUCTION TAKEN: DIAPER INTRO OFFER SUPPORT. $1,044.86. CONTACT ACCT TEAM FOR QUERY",DOC-0193.pdf
+CLM-0194,RET-004,2026-08-23,INV-004-0022,,Damages,113.77,"DAMAGED STOCK ON DELIVERY INV-004-0022, CLAIMING USD 113.77",DOC-0194.pdf
+CLM-0195,RET-005,2026-05-15,INV-005-0008,,Price Difference,181.65,invoice priced higher than trade terms. diff $181.65,DOC-0195.pdf
+CLM-0196,RET-006,2026-05-30,INV-006-0006,,Freight,360.31,FREIGHT RECOVERY $360.31 INV INV-006-0006,DOC-0196.pdf
+CLM-0197,RET-004,2026-07-26,INV-004-0024,,Shortage,54.32,QTY SHORTAGE CLAIM USD 54.32,DOC-0197.pdf
+CLM-0198,RET-005,2026-07-01,INV-005-0008,,Listing Fee,201.79,LISTING FEE Q3 - $201.79 - ref INV-005-0008,DOC-0198.pdf
+CLM-0199,RET-001,2026-03-08,INV-001-0010,,Listing Fee,887.49,Annual listing fee new SKU. USD 887.49. per trade terms,DOC-0199.pdf
+CLM-0200,RET-006,2025-12-13,INV-006-0012,,Freight,207.91,FREIGHT RECOVERY USD 207.91 INV INV-006-0012,DOC-0200.pdf
+CLM-0201,RET-002,2025-12-09,INV-002-0004,,Freight,265.73,freight recovery USD 265.73 inv INV-002-0004  (resubmission - not yet paid?),
+CLM-0202,RET-003,2026-04-29,INV-003-0011,PRM-0014,Co-op Marketing,861.97,"co-op marketing contribution Back-to-Campus $861.97  //fwd from finance team, pls action",DOC-0202.pdf
+CLM-0203,RET-006,2026-08-23,INV-006-0002,,Shortage,70.1,QTY SHORTAGE CLAIM USD 70.10,DOC-0203.pdf
+CLM-0204,RET-006,2026-07-14,INV-006-0004,PRM-0031,Promo Discount Support,609.76,PLS PROCESS PROMO SUPPORT FOR RAMADAN BUNDLE AS PER AGREEMENT. AMT USD 609.76. INV REF INV-006-0004,DOC-0204.pdf
+CLM-0205,RET-003,2026-03-10,INV-003-0009,,Listing Fee,2966.01,"Annual listing fee new SKU. $2,966.01. per trade terms",
+CLM-0206,RET-001,2026-05-24,INV-001-0032,PRM-0002,Promo Discount Support,911.92,"claiming promotional discount support Ramadan Bundle - total USD 911.92. see attached remittance  //fwd from finance team, pls action",
+CLM-0207,RET-003,2026-08-23,INV-003-0008,,Damages,39.12,"Goods received damaged. Raising claim $39.12. photos w/ store mgr  //fwd from finance team, pls action",DOC-0207.pdf
+CLM-0208,RET-006,2026-08-18,INV-006-0002,,Promo Discount Support,306.88,"PLS PROCESS PROMO SUPPORT FOR NIGHT PAD LAUNCH AS PER AGREEMENT. AMT $306.88. INV REF INV-006-0002  //fwd from finance team, pls action",DOC-0208.pdf
+CLM-0209,RET-005,2026-08-09,INV-005-0009,PRM-0025,Promo Discount Support,1192.8,"claiming promotional discount support Shelf Reset - total $1,192.80. see attached remittance",DOC-0209.pdf
+CLM-0210,RET-003,2025-11-19,INV-003-0012,PRM-0017,Co-op Marketing,943.15,CO-OP MARKETING CONTRIBUTION DIAPER INTRO OFFER USD 943.15,DOC-0210.pdf
+CLM-0211,RET-001,2026-02-02,INV-001-0035,PRM-0001,Co-op Marketing,1559.02,"marketing coop claim - $1,559.02  //fwd from finance team, pls action",
+CLM-0212,RET-005,2026-05-01,INV-005-0002,,Listing Fee,892.64,ANNUAL LISTING FEE NEW SKU. USD 892.64. PER TRADE TERMS,
+CLM-0213,RET-004,2026-08-23,INV-004-0032,PRM-0018,Co-op Marketing,894.1,MARKETING COOP CLAIM - USD 894.10,DOC-0213.pdf
+CLM-0214,RET-002,2026-05-14,INV-002-0006,,Listing Fee,400.11,Annual listing fee new SKU. $400.11. per trade terms,
+CLM-0215,RET-005,2026-03-21,INV-005-0002,,Price Difference,94.58,"invoice priced higher than trade terms. diff USD 94.58  //fwd from finance team, pls action",DOC-0215.pdf
+CLM-0216,RET-002,2026-08-23,INV-002-0007,,Shortage,69.52,SHORT DELIVERY ON INV-002-0007. SHORTFALL VALUE $69.52,DOC-0216.pdf
+CLM-0217,RET-003,2026-01-28,INV-003-0012,,Shortage,154.64,"QTY SHORTAGE CLAIM $154.64  //fwd from finance team, pls action",
+CLM-0218,RET-002,2026-05-04,INV-002-0002,,Damages,188.41,DMG CLAIM $188.41 - PLS CREDIT NOTE,DOC-0218.pdf
+CLM-0219,RET-005,2026-05-30,INV-005-0005,,Damages,40.14,"DAMAGED STOCK ON DELIVERY INV-005-0005, CLAIMING USD 40.14",DOC-0219.pdf
+CLM-0220,RET-002,2026-07-06,INV-002-0008,,Damages,39.51,Goods received damaged. Raising claim $39.51. photos w/ store mgr,DOC-0220.pdf
+CLM-0221,RET-002,2026-05-29,INV-002-0003,,Listing Fee,612.73,LISTING FEE Q3 - USD 612.73 - ref INV-002-0003,DOC-0221.pdf
+CLM-0222,RET-002,2026-07-08,INV-002-0008,,Price Difference,286.32,invoice priced higher than trade terms. diff $286.32,DOC-0222.pdf
+CLM-0223,RET-002,2026-05-14,INV-002-0001,,Shortage,90.43,short delivery on INV-002-0001. shortfall value $90.43,DOC-0223.pdf
+CLM-0224,RET-004,2026-05-17,INV-004-0008,,Listing Fee,204.64,LISTING FEE Q3 - $204.64 - ref INV-004-0008,DOC-0224.pdf
+CLM-0225,RET-001,2026-05-09,INV-001-0026,PRM-0004,Promo Discount Support,1177.27,"Pls process promo support for Ramadan Bundle as per agreement. amt $1,177.27. inv ref INV-001-0026",DOC-0225.pdf
+CLM-0226,RET-006,2025-12-17,INV-006-0003,,Freight,278.38,delivery charge back $278.38,DOC-0226.pdf
+CLM-0227,RET-002,2026-07-09,INV-002-0001,,Damages,39.34,DMG claim USD 39.34 - pls credit note,DOC-0227.pdf
+CLM-0228,RET-001,2025-11-03,INV-001-0029,,Price Difference,115.08,"price diff vs agreed list, claiming USD 115.08, inv INV-001-0029",DOC-0228.pdf
+CLM-0229,RET-003,2025-10-30,INV-003-0010,,Listing Fee,889.78,LISTING FEE Q3 - USD 889.78 - ref INV-003-0010,DOC-0229.pdf
+CLM-0230,RET-001,2026-04-08,INV-001-0030,,Listing Fee,969.07,"ANNUAL LISTING FEE NEW SKU. $969.07. PER TRADE TERMS  //fwd from finance team, pls action",DOC-0230.pdf
+CLM-0231,RET-003,2026-08-23,INV-003-0008,,Shortage,56.89,"short delivery on INV-003-0008. shortfall value USD 56.89  //fwd from finance team, pls action",
+CLM-0232,RET-002,2026-08-23,INV-002-0005,,Price Difference,136.84,"price diff vs agreed list, claiming $136.84, inv INV-002-0005  //fwd from finance team, pls action",DOC-0232.pdf
+CLM-0233,RET-001,2025-12-27,INV-001-0021,,Damages,40.83,"Goods received damaged. Raising claim $40.83. photos w/ store mgr  //fwd from finance team, pls action",DOC-0233.pdf
+CLM-0234,RET-002,2026-06-22,INV-002-0001,,Price Difference,113.08,invoice priced higher than trade terms. diff $113.08,
+CLM-0235,RET-004,2026-07-17,INV-004-0016,,Price Difference,673.77,"PRICE DIFF VS AGREED LIST, CLAIMING $673.77, INV INV-004-0016",DOC-0235.pdf
+CLM-0236,RET-004,2025-09-21,INV-004-0000,PRM-0023,Promo Discount Support,1060.13,"PLS PROCESS PROMO SUPPORT FOR BACK-TO-CAMPUS AS PER AGREEMENT. AMT USD 1,060.13. INV REF INV-004-0000  //fwd from finance team, pls action",DOC-0236.pdf
+CLM-0237,RET-001,2026-02-06,INV-001-0021,,Price Difference,179.72,invoice priced higher than trade terms. diff $179.72,
+CLM-0238,RET-001,2026-05-20,INV-001-0032,,Promo Discount Support,430.65,Deduction taken: Ramadan Bundle support. USD 430.65. contact acct team for query,DOC-0238.pdf
+CLM-0239,RET-001,2025-12-11,INV-001-0029,,Listing Fee,585.39,ANNUAL LISTING FEE NEW SKU. USD 585.39. PER TRADE TERMS,
+CLM-0240,RET-002,2026-02-03,INV-002-0009,,Listing Fee,886.27,"Annual listing fee new SKU. USD 886.27. per trade terms  //fwd from finance team, pls action",DOC-0240.pdf
+CLM-0241,RET-004,2026-08-12,INV-004-0012,PRM-0021,Promo Discount Support,452.23,Pls process promo support for Back-to-Campus as per agreement. amt USD 452.23. inv ref INV-004-0012,DOC-0241.pdf
+CLM-0242,RET-002,2025-12-29,INV-002-0009,PRM-0010,Co-op Marketing,767.8,co-op marketing contribution Payday Sale $767.80,
+CLM-0243,RET-003,2026-08-11,INV-003-0008,,Freight,254.51,"freight recovery USD 254.51 inv INV-003-0008  //fwd from finance team, pls action",DOC-0243.pdf
+CLM-0244,RET-001,2026-06-23,INV-001-0006,,Price Difference,643.57,"price diff vs agreed list, claiming $643.57, inv INV-001-0006  //fwd from finance team, pls action",
+CLM-0245,RET-002,2025-11-19,INV-002-0004,,Price Difference,146.95,"price diff vs agreed list, claiming $146.95, inv INV-002-0004  //fwd from finance team, pls action",DOC-0245.pdf
+CLM-0246,RET-003,2026-08-12,INV-003-0008,PRM-0011,Promo Discount Support,580.2,"Deduction taken: Festive Gifting support. $580.20. contact acct team for query  //fwd from finance team, pls action",DOC-0246.pdf
+CLM-0247,RET-004,2026-08-03,INV-004-0015,,Damages,39.98,"damaged stock on delivery INV-004-0015, claiming $39.98",DOC-0247.pdf
+CLM-0248,RET-003,2026-06-15,INV-003-0002,PRM-0011,Damages,299.03,"DAMAGED STOCK ON DELIVERY INV-003-0002, CLAIMING USD 299.03  //fwd from finance team, pls action",DOC-0248.pdf
+CLM-0249,RET-005,2026-08-23,INV-005-0004,PRM-0024,Promo Discount Support,1597.32,"DEDUCTION TAKEN: DIAPER INTRO OFFER SUPPORT. USD 1,597.32. CONTACT ACCT TEAM FOR QUERY",DOC-0249.pdf
+CLM-0250,RET-004,2026-05-11,INV-004-0003,PRM-0022,Listing Fee,4337.32,"LISTING FEE Q3 - $4,337.32 - ref INV-004-0003",
+CLM-0251,RET-006,2025-11-09,INV-006-0009,,Price Difference,623.17,"price diff vs agreed list, claiming USD 623.17, inv INV-006-0009",
+CLM-0252,RET-005,2026-08-23,INV-005-0004,PRM-0027,Co-op Marketing,1392.88,"co-op marketing contribution Mid-Year Mega USD 1,392.88",
+CLM-0253,RET-001,2025-10-14,INV-001-0025,PRM-0005,Co-op Marketing,1038.01,"co-op marketing contribution Diaper Intro Offer USD 1,038.01",DOC-0253.pdf
+CLM-0254,RET-004,2026-01-02,INV-004-0019,PRM-0020,Co-op Marketing,1390.3,"co-op marketing contribution Ramadan Bundle USD 1,390.30",DOC-0254.pdf
+CLM-0255,RET-005,2026-07-23,INV-005-0004,,Price Difference,60.2,"invoice priced higher than trade terms. diff USD 60.20  //fwd from finance team, pls action",DOC-0255.pdf
+CLM-0256,RET-005,2025-10-15,INV-005-0006,,Price Difference,214.65,"price diff vs agreed list, claiming $214.65, inv INV-005-0006",DOC-0256.pdf
+CLM-0257,RET-004,2025-11-21,INV-004-0023,PRM-0021,Co-op Marketing,440.85,co-op marketing contribution Back-to-Campus USD 440.85,DOC-0257.pdf
+CLM-0258,RET-002,2025-12-14,INV-002-0009,PRM-0010,Co-op Marketing,750.73,MARKETING COOP CLAIM - $750.73,DOC-0258.pdf
+CLM-0259,RET-003,2026-01-01,INV-003-0015,PRM-0017,Promo Discount Support,705.48,PLS PROCESS PROMO SUPPORT FOR DIAPER INTRO OFFER AS PER AGREEMENT. AMT $705.48. INV REF INV-003-0015,DOC-0259.pdf
+CLM-0260,RET-004,2025-12-30,INV-004-0017,,Freight,177.87,delivery charge back USD 177.87,DOC-0260.pdf
+CLM-0261,RET-002,2026-06-28,INV-002-0008,PRM-0008,Promo Discount Support,1526.61,"Pls process promo support for Diaper Intro Offer as per agreement. amt $1,526.61. inv ref INV-002-0008",DOC-0261.pdf
+CLM-0262,RET-002,2026-08-18,INV-002-0007,PRM-0010,Co-op Marketing,749.42,"marketing coop claim - USD 749.42  //fwd from finance team, pls action",DOC-0262.pdf
+CLM-0263,RET-002,2026-04-22,INV-002-0003,,Shortage,40.76,short delivery on INV-002-0003. shortfall value $40.76,
+CLM-0264,RET-001,2026-04-01,INV-001-0030,,Shortage,68.0,"qty shortage claim $68.00  //fwd from finance team, pls action",
+CLM-0265,RET-002,2026-08-11,INV-002-0005,,Freight,63.41,delivery charge back $63.41,
+CLM-0266,RET-005,2025-12-19,INV-005-0006,,Freight,276.14,freight recovery $276.14 inv INV-005-0006,DOC-0266.pdf
+CLM-0267,RET-002,2026-08-23,INV-002-0005,,Damages,76.87,DMG claim $76.87 - pls credit note,DOC-0267.pdf
+CLM-0268,RET-004,2026-08-23,INV-004-0016,,Co-op Marketing,4886.77,"marketing coop claim - $4,886.77",
+CLM-0269,RET-005,2026-05-05,INV-005-0013,,Damages,219.62,"damaged stock on delivery INV-005-0013, claiming USD 219.62",DOC-0269.pdf
+CLM-0270,RET-004,2026-03-04,INV-004-0017,PRM-0021,Co-op Marketing,452.61,"co-op marketing contribution Back-to-Campus $452.61  //fwd from finance team, pls action",DOC-0270.pdf
+CLM-0271,RET-006,2026-04-21,INV-006-0015,,Shortage,136.42,"QTY SHORTAGE CLAIM USD 136.42  //fwd from finance team, pls action",
+CLM-0272,RET-004,2026-06-16,INV-004-0032,,Freight,65.32,DELIVERY CHARGE BACK $65.32,DOC-0272.pdf
+CLM-0273,RET-005,2026-08-23,INV-005-0003,,Damages,40.77,Goods received damaged. Raising claim USD 40.77. photos w/ store mgr,
+CLM-0274,RET-002,2026-03-16,INV-002-0002,PRM-0007,Promo Discount Support,1301.16,"PLS PROCESS PROMO SUPPORT FOR FESTIVE GIFTING AS PER AGREEMENT. AMT $1,301.16. INV REF INV-002-0002",DOC-0274.pdf
+CLM-0275,RET-003,2026-02-16,INV-003-0009,PRM-0014,Co-op Marketing,872.91,MARKETING COOP CLAIM - $872.91,
+CLM-0276,RET-004,2026-08-23,INV-004-0026,PRM-0018,Co-op Marketing,896.35,co-op marketing contribution Festive Gifting USD 896.35,DOC-0276.pdf
+CLM-0277,RET-005,2026-06-21,INV-005-0008,,Damages,399.5,"damaged stock on delivery INV-005-0008, claiming $399.50",
+CLM-0278,RET-005,2026-04-17,INV-005-0013,,Shortage,47.45,"short delivery on INV-005-0013. shortfall value USD 47.45  //fwd from finance team, pls action",DOC-0278.pdf
+CLM-0279,RET-005,2026-04-25,INV-005-0007,PRM-0027,Co-op Marketing,1401.76,"CO-OP MARKETING CONTRIBUTION MID-YEAR MEGA USD 1,401.76",DOC-0279.pdf
+CLM-0280,RET-003,2026-03-28,INV-003-0007,PRM-0016,Co-op Marketing,1285.9,"marketing coop claim - USD 1,285.90",DOC-0280.pdf
+CLM-0281,RET-002,2026-04-09,INV-002-0000,PRM-0010,Co-op Marketing,760.5,co-op marketing contribution Payday Sale USD 760.50,DOC-0281.pdf
+CLM-0282,RET-001,2026-05-09,INV-001-0035,,Freight,326.87,"DELIVERY CHARGE BACK $326.87  //fwd from finance team, pls action",
+CLM-0283,RET-004,2025-12-13,INV-004-0020,,Shortage,75.82,short delivery on INV-004-0020. shortfall value $75.82,DOC-0283.pdf
+CLM-0284,RET-001,2026-02-10,INV-001-0035,,Promo Discount Support,657.66,CLAIMING PROMOTIONAL DISCOUNT SUPPORT SHELF RESET - TOTAL $657.66. SEE ATTACHED REMITTANCE,DOC-0284.pdf
+CLM-0285,RET-004,2026-08-23,INV-004-0006,,Shortage,39.83,QTY SHORTAGE CLAIM USD 39.83,
+CLM-0286,RET-002,2026-06-04,INV-002-0008,,Damages,39.42,"damaged stock on delivery INV-002-0008, claiming USD 39.42",DOC-0286.pdf
+CLM-0287,RET-005,2026-08-23,INV-005-0004,PRM-0026,Promo Discount Support,502.0,"PLS PROCESS PROMO SUPPORT FOR BACK-TO-CAMPUS AS PER AGREEMENT. AMT $502.00. INV REF INV-005-0004  //fwd from finance team, pls action",DOC-0287.pdf
+CLM-0288,RET-001,2026-01-15,INV-001-0007,PRM-0002,Co-op Marketing,892.04,co-op marketing contribution Ramadan Bundle USD 892.04,DOC-0288.pdf
+CLM-0289,RET-005,2025-10-27,INV-005-0000,,Listing Fee,607.56,"LISTING FEE Q3 - USD 607.56 - REF INV-005-0000  //fwd from finance team, pls action",DOC-0289.pdf
+CLM-0290,RET-003,2025-10-21,INV-003-0012,PRM-0011,Damages,485.44,"damaged stock on delivery INV-003-0012, claiming USD 485.44",DOC-0290.pdf
+CLM-0291,RET-001,2026-07-21,INV-001-0031,PRM-0001,Co-op Marketing,1390.63,"marketing coop claim - $1,390.63",
+CLM-0292,RET-006,2025-11-15,INV-006-0011,,Freight,259.93,delivery charge back $259.93,DOC-0292.pdf
+CLM-0293,RET-005,2026-04-24,INV-005-0001,,Shortage,125.07,QTY SHORTAGE CLAIM $125.07,
+CLM-0294,RET-002,2026-07-30,INV-002-0010,,Freight,133.76,FREIGHT RECOVERY $133.76 INV INV-002-0010,DOC-0294.pdf
+CLM-0295,RET-001,2025-09-19,INV-001-0025,,Listing Fee,199.51,LISTING FEE Q3 - USD 199.51 - ref INV-001-0025,DOC-0295.pdf
+CLM-0296,RET-001,2026-04-04,INV-001-0040,,Listing Fee,195.88,Annual listing fee new SKU. USD 195.88. per trade terms,DOC-0296.pdf
+CLM-0297,RET-002,2026-03-01,INV-002-0002,,Price Difference,418.86,invoice priced higher than trade terms. diff $418.86,DOC-0297.pdf
+CLM-0298,RET-005,2026-08-23,INV-005-0012,,Shortage,61.17,short delivery on INV-005-0012. shortfall value $61.17,DOC-0298.pdf
+CLM-0299,RET-002,2026-05-12,INV-002-0012,,Damages,39.65,"damaged stock on delivery INV-002-0012, claiming USD 39.65",DOC-0299.pdf
+CLM-0300,RET-001,2026-01-27,INV-001-0021,,Listing Fee,3643.82,"Annual listing fee new SKU. USD 3,643.82. per trade terms",
+CLM-0301,RET-001,2026-08-20,INV-001-0011,,Shortage,115.73,qty shortage claim USD 115.73,DOC-0301.pdf
+CLM-0302,RET-003,2026-04-17,INV-003-0013,,Damages,492.9,Goods received damaged. Raising claim USD 492.90. photos w/ store mgr,DOC-0302.pdf
+CLM-0303,RET-004,2026-02-06,INV-004-0020,,Freight,219.04,FREIGHT RECOVERY $219.04 INV INV-004-0020,DOC-0303.pdf
+CLM-0304,RET-003,2025-12-09,INV-003-0006,,Price Difference,193.61,invoice priced higher than trade terms. diff $193.61,DOC-0304.pdf
+CLM-0305,RET-004,2026-01-20,INV-004-0017,,Damages,39.78,Goods received damaged. Raising claim USD 39.78. photos w/ store mgr,DOC-0305.pdf
+CLM-0306,RET-004,2026-08-23,INV-004-0014,PRM-0018,Listing Fee,5195.13,"LISTING FEE Q3 - USD 5,195.13 - ref INV-004-0014",DOC-0306.pdf
+CLM-0307,RET-005,2026-04-20,INV-005-0007,PRM-0026,Promo Discount Support,483.11,"Pls process promo support for Back-to-Campus as per agreement. amt $483.11. inv ref INV-005-0007  //fwd from finance team, pls action",
+CLM-0308,RET-001,2026-04-07,INV-001-0000,,Shortage,232.02,SHORT DELIVERY ON INV-001-0000. SHORTFALL VALUE $232.02,
+CLM-0309,RET-005,2026-04-26,INV-005-0013,,Damages,123.46,Goods received damaged. Raising claim $123.46. photos w/ store mgr,DOC-0309.pdf
+CLM-0310,RET-001,2025-12-31,INV-001-0017,PRM-0000,Co-op Marketing,1297.79,"marketing coop claim - $1,297.79",DOC-0310.pdf
+CLM-0311,RET-001,2026-01-27,INV-001-0035,,Freight,273.49,freight recovery $273.49 inv INV-001-0035,DOC-0311.pdf
+CLM-0312,RET-003,2026-08-23,INV-003-0008,PRM-0014,Co-op Marketing,860.79,co-op marketing contribution Back-to-Campus $860.79,DOC-0312.pdf
+CLM-0313,RET-002,2026-08-23,INV-002-0007,,Listing Fee,612.3,"LISTING FEE Q3 - $612.30 - ref INV-002-0007  //fwd from finance team, pls action",DOC-0313.pdf
+CLM-0314,RET-004,2026-06-04,INV-004-0002,,Listing Fee,399.95,"ANNUAL LISTING FEE NEW SKU. USD 399.95. PER TRADE TERMS  //fwd from finance team, pls action",DOC-0314.pdf
+CLM-0315,RET-005,2026-03-14,INV-005-0002,,Listing Fee,407.51,LISTING FEE Q3 - USD 407.51 - ref INV-005-0002,DOC-0315.pdf
+CLM-0316,RET-002,2026-06-15,INV-002-0001,PRM-0007,Promo Discount Support,1326.71,"Deduction taken: Festive Gifting support. USD 1,326.71. contact acct team for query  //fwd from finance team, pls action",DOC-0316.pdf
+CLM-0317,RET-001,2026-03-31,INV-001-0043,,Listing Fee,399.96,ANNUAL LISTING FEE NEW SKU. USD 399.96. PER TRADE TERMS,DOC-0317.pdf
+CLM-0318,RET-006,2026-01-06,INV-006-0009,,Shortage,97.3,"short delivery on INV-006-0009. shortfall value USD 97.30  //fwd from finance team, pls action",DOC-0318.pdf
+CLM-0319,RET-001,2025-10-04,INV-001-0025,,Listing Fee,197.2,Annual listing fee new SKU. $197.20. per trade terms,DOC-0319.pdf
+CLM-0320,RET-003,2025-10-26,INV-003-0012,PRM-0016,Promo Discount Support,1715.54,"Pls process promo support for Diaper Intro Offer as per agreement. amt USD 1,715.54. inv ref INV-003-0012  //fwd from finance team, pls action",DOC-0320.pdf
+CLM-0321,RET-002,2025-11-14,INV-002-0004,PRM-0010,Co-op Marketing,767.12,"CO-OP MARKETING CONTRIBUTION PAYDAY SALE USD 767.12  //fwd from finance team, pls action",DOC-0321.pdf
+CLM-0322,RET-002,2026-05-11,INV-002-0003,PRM-0007,Co-op Marketing,1268.06,"MARKETING COOP CLAIM - $1,268.06",DOC-0322.pdf
+CLM-0323,RET-002,2026-01-07,INV-002-0009,PRM-0007,Co-op Marketing,1285.7,"marketing coop claim - $1,285.70",DOC-0323.pdf
+CLM-0324,RET-004,2026-08-03,INV-004-0016,,Price Difference,482.75,invoice priced higher than trade terms. diff USD 482.75,
+CLM-0325,RET-004,2026-08-23,INV-004-0012,PRM-0022,Promo Discount Support,1375.25,"Pls process promo support for Mid-Year Mega as per agreement. amt $1,375.25. inv ref INV-004-0012",DOC-0325.pdf
+CLM-0326,RET-003,2026-02-09,INV-003-0004,,Damages,40.9,DMG claim $40.90 - pls credit note,
+CLM-0327,RET-002,2026-05-16,INV-002-0003,,Damages,40.6,DMG CLAIM $40.60 - PLS CREDIT NOTE,DOC-0327.pdf
+CLM-0328,RET-001,2026-03-29,INV-001-0034,,Price Difference,45.68,"price diff vs agreed list, claiming $45.68, inv INV-001-0034  //fwd from finance team, pls action",DOC-0328.pdf
+CLM-0329,RET-005,2025-10-28,INV-005-0006,,Freight,322.79,freight recovery $322.79 inv INV-005-0006,
+CLM-0330,RET-002,2026-06-03,INV-002-0002,,Freight,86.8,DELIVERY CHARGE BACK $86.80,DOC-0330.pdf
+CLM-0331,RET-002,2026-08-23,INV-002-0007,,Listing Fee,395.9,LISTING FEE Q3 - $395.90 - ref INV-002-0007,DOC-0331.pdf
+CLM-0332,RET-001,2025-12-31,INV-001-0042,,Damages,45.82,"damaged stock on delivery INV-001-0042, claiming $45.82  //fwd from finance team, pls action  (resubmission - not yet paid?)",DOC-0332.pdf
+CLM-0333,RET-005,2026-06-03,INV-005-0013,,Price Difference,84.46,invoice priced higher than trade terms. diff $84.46,DOC-0333.pdf
+CLM-0334,RET-004,2026-08-23,INV-004-0014,,Co-op Marketing,3614.58,"CO-OP MARKETING CONTRIBUTION BACK-TO-CAMPUS USD 3,614.58  (resubmission - not yet paid?)",DOC-0334.pdf
+CLM-0335,RET-004,2026-08-23,INV-004-0006,PRM-0022,Promo Discount Support,1326.82,"claiming promotional discount support Mid-Year Mega - total $1,326.82. see attached remittance  (resubmission - not yet paid?)",DOC-0335.pdf
+CLM-0336,RET-003,2026-02-20,INV-003-0006,PRM-0011,Promo Discount Support,587.4,Deduction taken: Festive Gifting support. $587.40. contact acct team for query,DOC-0336.pdf
+CLM-0337,RET-002,2026-04-30,INV-002-0000,PRM-0008,Promo Discount Support,1520.69,"PLS PROCESS PROMO SUPPORT FOR DIAPER INTRO OFFER AS PER AGREEMENT. AMT $1,520.69. INV REF INV-002-0000",DOC-0337.pdf
+CLM-0338,RET-002,2026-02-02,INV-002-0002,,Price Difference,106.2,invoice priced higher than trade terms. diff $106.20,DOC-0338.pdf
+CLM-0339,RET-003,2025-11-11,INV-003-0012,,Shortage,277.13,QTY SHORTAGE CLAIM $277.13,DOC-0339.pdf
+CLM-0340,RET-006,2026-01-21,INV-006-0009,PRM-0036,Co-op Marketing,1446.4,"CO-OP MARKETING CONTRIBUTION SHELF RESET USD 1,446.40",DOC-0340.pdf
+CLM-0341,RET-001,2026-05-13,INV-001-0026,,Shortage,428.9,QTY SHORTAGE CLAIM USD 428.90,DOC-0341.pdf
+CLM-0342,RET-002,2026-06-26,INV-002-0001,,Price Difference,367.88,"price diff vs agreed list, claiming USD 367.88, inv INV-002-0001",DOC-0342.pdf
+CLM-0343,RET-002,2026-05-18,INV-002-0001,,Freight,207.22,FREIGHT RECOVERY USD 207.22 INV INV-002-0001,DOC-0343.pdf
+CLM-0344,RET-005,2026-08-23,INV-005-0012,,Listing Fee,885.44,"LISTING FEE Q3 - USD 885.44 - ref INV-005-0012  //fwd from finance team, pls action",DOC-0344.pdf
+CLM-0345,RET-003,2026-03-27,INV-003-0013,,Price Difference,198.98,invoice priced higher than trade terms. diff $198.98,DOC-0345.pdf
+CLM-0346,RET-004,2026-01-20,INV-004-0017,,Listing Fee,3414.0,"ANNUAL LISTING FEE NEW SKU. USD 3,414.00. PER TRADE TERMS",
+CLM-0347,RET-005,2026-03-19,INV-005-0001,,Shortage,76.16,QTY SHORTAGE CLAIM $76.16,DOC-0347.pdf
+CLM-0348,RET-005,2026-01-31,INV-005-0007,,Promo Discount Support,1897.12,"Deduction taken: Back-to-Campus support. USD 1,897.12. contact acct team for query",DOC-0348.pdf
+CLM-0349,RET-006,2026-05-03,INV-006-0000,,Freight,429.92,DELIVERY CHARGE BACK $429.92,DOC-0349.pdf
+CLM-0350,RET-003,2025-12-22,INV-003-0015,PRM-0017,Co-op Marketing,708.61,CO-OP MARKETING CONTRIBUTION DIAPER INTRO OFFER USD 708.61,
+CLM-0351,RET-001,2026-03-21,INV-001-0018,,Damages,40.07,"damaged stock on delivery INV-001-0018, claiming USD 40.07",DOC-0351.pdf
+CLM-0352,RET-005,2026-06-17,INV-005-0010,,Promo Discount Support,1800.97,"Pls process promo support for Shelf Reset as per agreement. amt $1,800.97. inv ref INV-005-0010",
+CLM-0353,RET-004,2026-08-13,INV-004-0009,PRM-0020,Promo Discount Support,1398.63,"Pls process promo support for Ramadan Bundle as per agreement. amt USD 1,398.63. inv ref INV-004-0009",DOC-0353.pdf
+CLM-0354,RET-006,2025-11-25,INV-006-0012,PRM-0035,Promo Discount Support,856.28,"Pls process promo support for Back-to-Campus as per agreement. amt $856.28. inv ref INV-006-0012  //fwd from finance team, pls action",
+CLM-0355,RET-005,2026-08-23,INV-005-0004,PRM-0029,Promo Discount Support,305.37,Pls process promo support for Shelf Reset as per agreement. amt USD 305.37. inv ref INV-005-0004,DOC-0355.pdf
+CLM-0356,RET-001,2026-03-16,INV-001-0000,PRM-0004,Promo Discount Support,1207.61,"claiming promotional discount support Ramadan Bundle - total $1,207.61. see attached remittance",
+CLM-0357,RET-006,2025-12-17,INV-006-0010,,Listing Fee,195.52,LISTING FEE Q3 - $195.52 - ref INV-006-0010,DOC-0357.pdf
+CLM-0358,RET-004,2026-03-31,INV-004-0025,,Price Difference,66.69,invoice priced higher than trade terms. diff USD 66.69,DOC-0358.pdf
+CLM-0359,RET-005,2025-10-20,INV-005-0006,PRM-0025,Promo Discount Support,1188.29,"PLS PROCESS PROMO SUPPORT FOR SHELF RESET AS PER AGREEMENT. AMT $1,188.29. INV REF INV-005-0006",DOC-0359.pdf
+CLM-0360,RET-005,2026-04-30,INV-005-0013,,Listing Fee,887.63,Annual listing fee new SKU. $887.63. per trade terms,DOC-0360.pdf
+CLM-0361,RET-003,2026-05-02,INV-003-0014,,Shortage,169.1,"short delivery on INV-003-0014. shortfall value USD 169.10  //fwd from finance team, pls action",
+CLM-0362,RET-004,2026-04-22,INV-004-0011,,Listing Fee,983.99,LISTING FEE Q3 - USD 983.99 - ref INV-004-0011,DOC-0362.pdf
+CLM-0363,RET-002,2025-10-17,INV-002-0004,PRM-0010,Co-op Marketing,748.51,MARKETING COOP CLAIM - USD 748.51,DOC-0363.pdf
+CLM-0364,RET-005,2026-07-04,INV-005-0014,PRM-0025,Promo Discount Support,1175.99,"CLAIMING PROMOTIONAL DISCOUNT SUPPORT SHELF RESET - TOTAL $1,175.99. SEE ATTACHED REMITTANCE",DOC-0364.pdf
+CLM-0365,RET-002,2026-08-23,INV-002-0007,,Listing Fee,195.3,Annual listing fee new SKU. $195.30. per trade terms,DOC-0365.pdf
+CLM-0366,RET-001,2025-11-25,INV-001-0024,,Shortage,102.41,short delivery on INV-001-0024. shortfall value USD 102.41,DOC-0366.pdf
+CLM-0367,RET-006,2025-11-07,INV-006-0008,,Price Difference,80.9,invoice priced higher than trade terms. diff $80.90,DOC-0367.pdf
+CLM-0368,RET-002,2025-11-26,INV-002-0004,,Price Difference,128.6,"price diff vs agreed list, claiming USD 128.60, inv INV-002-0004",DOC-0368.pdf
+CLM-0369,RET-006,2026-07-28,INV-006-0001,,Price Difference,89.95,INVOICE PRICED HIGHER THAN TRADE TERMS. DIFF $89.95,DOC-0369.pdf
+CLM-0370,RET-002,2025-10-22,INV-002-0004,,Freight,382.33,DELIVERY CHARGE BACK $382.33,DOC-0370.pdf
+CLM-0371,RET-004,2026-03-14,INV-004-0011,,Shortage,40.05,QTY SHORTAGE CLAIM $40.05,DOC-0371.pdf
+CLM-0372,RET-006,2026-01-19,INV-006-0018,,Freight,384.44,"delivery charge back $384.44  //fwd from finance team, pls action",DOC-0372.pdf
+CLM-0373,RET-003,2026-03-08,INV-003-0013,,Damages,46.7,"DMG claim $46.70 - pls credit note  //fwd from finance team, pls action",DOC-0373.pdf
+CLM-0374,RET-004,2025-10-31,INV-004-0007,,Damages,40.53,DMG claim USD 40.53 - pls credit note,
+CLM-0375,RET-002,2026-08-23,INV-002-0005,,Shortage,78.57,qty shortage claim $78.57,DOC-0375.pdf
+CLM-0376,RET-004,2026-01-02,INV-004-0017,,Freight,314.09,FREIGHT RECOVERY USD 314.09 INV INV-004-0017,DOC-0376.pdf
+CLM-0377,RET-003,2026-04-30,INV-003-0002,,Damages,70.52,"DAMAGED STOCK ON DELIVERY INV-003-0002, CLAIMING USD 70.52",DOC-0377.pdf
+CLM-0378,RET-005,2026-03-07,INV-005-0006,,Price Difference,182.58,"price diff vs agreed list, claiming $182.58, inv INV-005-0006",DOC-0378.pdf
+CLM-0379,RET-006,2026-03-21,INV-006-0015,PRM-0031,Promo Discount Support,616.64,Pls process promo support for Ramadan Bundle as per agreement. amt $616.64. inv ref INV-006-0015,
+CLM-0380,RET-005,2026-05-24,INV-005-0002,,Price Difference,284.15,"PRICE DIFF VS AGREED LIST, CLAIMING USD 284.15, INV INV-005-0002",
+CLM-0381,RET-006,2026-08-09,INV-006-0016,,Shortage,72.29,qty shortage claim $72.29,DOC-0381.pdf
+CLM-0382,RET-006,2026-06-24,INV-006-0013,PRM-0031,Promo Discount Support,623.43,claiming promotional discount support Ramadan Bundle - total USD 623.43. see attached remittance,DOC-0382.pdf
+CLM-0383,RET-003,2026-02-10,INV-003-0015,,Price Difference,166.95,INVOICE PRICED HIGHER THAN TRADE TERMS. DIFF USD 166.95,
+CLM-0384,RET-003,2026-04-03,INV-003-0005,PRM-0015,Promo Discount Support,1336.47,"claiming promotional discount support Back-to-Campus - total $1,336.47. see attached remittance",DOC-0384.pdf
+CLM-0385,RET-001,2026-05-05,INV-001-0028,,Promo Discount Support,1277.7,"PLS PROCESS PROMO SUPPORT FOR DIAPER INTRO OFFER AS PER AGREEMENT. AMT USD 1,277.70. INV REF INV-001-0028",DOC-0385.pdf
+CLM-0386,RET-006,2026-08-05,INV-006-0002,,Freight,162.09,DELIVERY CHARGE BACK $162.09,DOC-0386.pdf
+CLM-0387,RET-003,2026-05-14,INV-003-0002,PRM-0011,Promo Discount Support,582.62,CLAIMING PROMOTIONAL DISCOUNT SUPPORT FESTIVE GIFTING - TOTAL $582.62. SEE ATTACHED REMITTANCE,DOC-0387.pdf
+CLM-0388,RET-006,2026-02-19,INV-006-0003,,Shortage,39.83,QTY SHORTAGE CLAIM $39.83,DOC-0388.pdf
+CLM-0389,RET-006,2026-01-11,INV-006-0005,,Price Difference,337.72,"price diff vs agreed list, claiming $337.72, inv INV-006-0005",DOC-0389.pdf
+CLM-0390,RET-003,2026-03-11,INV-003-0011,,Co-op Marketing,5081.91,"CO-OP MARKETING CONTRIBUTION BACK-TO-CAMPUS USD 5,081.91",
+CLM-0391,RET-001,2025-12-25,INV-001-0041,PRM-0002,Promo Discount Support,928.86,Pls process promo support for Ramadan Bundle as per agreement. amt USD 928.86. inv ref INV-001-0041,DOC-0391.pdf
+CLM-0392,RET-003,2026-07-17,INV-003-0000,,Freight,341.82,freight recovery USD 341.82 inv INV-003-0000,
+CLM-0393,RET-005,2026-03-14,INV-005-0007,PRM-0029,Co-op Marketing,310.1,CO-OP MARKETING CONTRIBUTION SHELF RESET USD 310.10,DOC-0393.pdf
+CLM-0394,RET-001,2026-07-30,INV-001-0003,,Damages,40.22,GOODS RECEIVED DAMAGED. RAISING CLAIM $40.22. PHOTOS W/ STORE MGR,DOC-0394.pdf
+CLM-0395,RET-006,2026-02-14,INV-006-0001,,Freight,231.52,delivery charge back USD 231.52,DOC-0395.pdf
+CLM-0396,RET-004,2026-04-27,INV-004-0002,,Price Difference,39.69,invoice priced higher than trade terms. diff $39.69,DOC-0396.pdf
+CLM-0397,RET-002,2025-11-19,INV-002-0004,PRM-0008,Promo Discount Support,1834.29,"DEDUCTION TAKEN: DIAPER INTRO OFFER SUPPORT. USD 1,834.29. CONTACT ACCT TEAM FOR QUERY  //fwd from finance team, pls action",DOC-0397.pdf
+CLM-0398,RET-004,2026-05-01,INV-004-0021,,Damages,193.17,"damaged stock on delivery INV-004-0021, claiming USD 193.17",DOC-0398.pdf
+CLM-0399,RET-003,2025-09-17,INV-003-0010,PRM-0013,Damages,292.83,Goods received damaged. Raising claim $292.83. photos w/ store mgr,DOC-0399.pdf
+CLM-0400,RET-006,2026-02-21,INV-006-0001,,Freight,452.17,"FREIGHT RECOVERY USD 452.17 INV INV-006-0001  //fwd from finance team, pls action",DOC-0400.pdf
+CLM-0401,RET-003,2026-07-16,INV-003-0001,,Promo Discount Support,1215.76,"Deduction taken: Shelf Reset support. $1,215.76. contact acct team for query",DOC-0401.pdf
+CLM-0402,RET-003,2026-06-02,INV-003-0002,PRM-0015,Promo Discount Support,1154.23,"Pls process promo support for Back-to-Campus as per agreement. amt $1,154.23. inv ref INV-003-0002  //fwd from finance team, pls action",DOC-0402.pdf
+CLM-0403,RET-003,2026-08-23,INV-003-0008,,Price Difference,327.11,"price diff vs agreed list, claiming USD 327.11, inv INV-003-0008",DOC-0403.pdf
+CLM-0404,RET-005,2026-06-25,INV-005-0008,,Freight,288.41,"delivery charge back $288.41  //fwd from finance team, pls action",DOC-0404.pdf
+CLM-0405,RET-005,2026-03-14,INV-005-0007,PRM-0027,Co-op Marketing,1385.54,"co-op marketing contribution Mid-Year Mega $1,385.54",DOC-0405.pdf
+CLM-0406,RET-006,2025-12-19,INV-006-0003,PRM-0032,Co-op Marketing,324.26,marketing coop claim - USD 324.26,DOC-0406.pdf
+CLM-0407,RET-005,2026-06-21,INV-005-0012,PRM-0024,Co-op Marketing,3269.22,"co-op marketing contribution Diaper Intro Offer USD 3,269.22",DOC-0407.pdf
+CLM-0408,RET-003,2025-10-28,INV-003-0010,PRM-0011,Promo Discount Support,597.43,"Pls process promo support for Festive Gifting as per agreement. amt $597.43. inv ref INV-003-0010  //fwd from finance team, pls action",DOC-0408.pdf
+CLM-0409,RET-002,2026-06-06,INV-002-0001,PRM-0009,Co-op Marketing,1082.5,"marketing coop claim - $1,082.50",
+CLM-0410,RET-002,2025-11-23,INV-002-0011,,Price Difference,150.76,INVOICE PRICED HIGHER THAN TRADE TERMS. DIFF USD 150.76,DOC-0410.pdf
+CLM-0411,RET-004,2026-08-23,INV-004-0024,,Freight,145.72,delivery charge back USD 145.72,DOC-0411.pdf
+CLM-0412,RET-003,2026-04-20,INV-003-0011,PRM-0011,Co-op Marketing,952.1,CO-OP MARKETING CONTRIBUTION FESTIVE GIFTING $952.10,DOC-0412.pdf
+CLM-0413,RET-004,2026-08-14,INV-004-0009,,Price Difference,234.62,invoice priced higher than trade terms. diff $234.62,DOC-0413.pdf
+CLM-0414,RET-006,2026-08-18,INV-006-0016,PRM-0034,Promo Discount Support,726.78,"PLS PROCESS PROMO SUPPORT FOR SHELF RESET AS PER AGREEMENT. AMT $726.78. INV REF INV-006-0016  //fwd from finance team, pls action",DOC-0414.pdf
+CLM-0415,RET-001,2025-12-06,INV-001-0017,PRM-0006,Co-op Marketing,449.35,marketing coop claim - $449.35,DOC-0415.pdf
+CLM-0416,RET-004,2026-08-22,INV-004-0005,,Shortage,89.59,short delivery on INV-004-0005. shortfall value USD 89.59,
+CLM-0417,RET-004,2026-08-23,INV-004-0006,,Price Difference,46.05,invoice priced higher than trade terms. diff $46.05  (resubmission - not yet paid?),
+CLM-0418,RET-003,2026-08-23,INV-003-0000,,Listing Fee,609.02,Annual listing fee new SKU. $609.02. per trade terms,DOC-0418.pdf
+CLM-0419,RET-004,2026-07-06,INV-004-0009,,Shortage,217.18,short delivery on INV-004-0009. shortfall value USD 217.18,DOC-0419.pdf
+CLM-0420,RET-006,2026-05-03,INV-006-0013,,Listing Fee,394.71,"Annual listing fee new SKU. USD 394.71. per trade terms  //fwd from finance team, pls action",DOC-0420.pdf
+CLM-0421,RET-004,2026-01-08,INV-004-0021,,Shortage,82.2,SHORT DELIVERY ON INV-004-0021. SHORTFALL VALUE USD 82.20,
+CLM-0422,RET-001,2026-02-07,INV-001-0040,,Shortage,325.11,"qty shortage claim USD 325.11  //fwd from finance team, pls action",DOC-0422.pdf
+CLM-0423,RET-004,2026-05-12,INV-004-0011,,Shortage,39.45,qty shortage claim USD 39.45,DOC-0423.pdf
+CLM-0424,RET-002,2026-06-28,INV-002-0006,,Price Difference,283.55,invoice priced higher than trade terms. diff $283.55,DOC-0424.pdf
+CLM-0425,RET-005,2026-07-02,INV-005-0009,,Freight,339.65,delivery charge back USD 339.65,
+CLM-0426,RET-004,2026-08-23,INV-004-0012,,Shortage,104.89,"qty shortage claim USD 104.89  //fwd from finance team, pls action",DOC-0426.pdf
+CLM-0427,RET-003,2026-03-26,INV-003-0014,,Shortage,285.84,short delivery on INV-003-0014. shortfall value USD 285.84,DOC-0427.pdf
+CLM-0428,RET-006,2026-06-06,INV-006-0004,,Listing Fee,394.92,"LISTING FEE Q3 - USD 394.92 - ref INV-006-0004  //fwd from finance team, pls action",
+CLM-0429,RET-005,2026-08-23,INV-005-0003,PRM-0026,Co-op Marketing,483.33,marketing coop claim - USD 483.33,DOC-0429.pdf
+CLM-0430,RET-004,2026-08-03,INV-004-0001,,Freight,120.68,delivery charge back $120.68,DOC-0430.pdf
+CLM-0431,RET-002,2026-07-10,INV-002-0006,,Damages,39.91,GOODS RECEIVED DAMAGED. RAISING CLAIM $39.91. PHOTOS W/ STORE MGR,DOC-0431.pdf
+CLM-0432,RET-001,2026-08-23,INV-001-0015,PRM-0005,Co-op Marketing,1067.15,"co-op marketing contribution Diaper Intro Offer USD 1,067.15",
+CLM-0433,RET-006,2026-08-23,INV-006-0007,,Shortage,40.52,short delivery on INV-006-0007. shortfall value USD 40.52,DOC-0433.pdf
+CLM-0434,RET-006,2026-01-11,INV-006-0012,,Price Difference,39.59,"price diff vs agreed list, claiming $39.59, inv INV-006-0012",DOC-0434.pdf
+CLM-0435,RET-005,2026-08-23,INV-005-0004,,Price Difference,72.9,INVOICE PRICED HIGHER THAN TRADE TERMS. DIFF $72.90,DOC-0435.pdf
+CLM-0436,RET-005,2025-12-07,INV-005-0011,PRM-0024,Co-op Marketing,1603.42,"co-op marketing contribution Diaper Intro Offer USD 1,603.42",DOC-0436.pdf
+CLM-0437,RET-004,2026-08-23,INV-004-0014,PRM-0019,Promo Discount Support,1405.04,"PLS PROCESS PROMO SUPPORT FOR SHELF RESET AS PER AGREEMENT. AMT USD 1,405.04. INV REF INV-004-0014",
+CLM-0438,RET-006,2026-01-12,INV-006-0009,,Freight,76.85,delivery charge back $76.85,DOC-0438.pdf
+CLM-0439,RET-002,2026-08-23,INV-002-0010,PRM-0010,Promo Discount Support,780.74,PLS PROCESS PROMO SUPPORT FOR PAYDAY SALE AS PER AGREEMENT. AMT $780.74. INV REF INV-002-0010,DOC-0439.pdf
+CLM-0440,RET-001,2026-08-23,INV-001-0002,,Damages,40.18,Goods received damaged. Raising claim USD 40.18. photos w/ store mgr,DOC-0440.pdf
+CLM-0441,RET-006,2026-07-13,INV-006-0007,,Damages,117.45,"damaged stock on delivery INV-006-0007, claiming $117.45",DOC-0441.pdf
+CLM-0442,RET-005,2026-02-23,INV-005-0002,PRM-0024,Co-op Marketing,1554.15,"marketing coop claim - $1,554.15",DOC-0442.pdf
+CLM-0443,RET-002,2026-07-02,INV-002-0008,,Damages,39.05,Goods received damaged. Raising claim $39.05. photos w/ store mgr,DOC-0443.pdf
+CLM-0444,RET-005,2026-04-19,INV-005-0001,,Damages,306.76,"DMG CLAIM $306.76 - PLS CREDIT NOTE  //fwd from finance team, pls action",DOC-0444.pdf
+CLM-0445,RET-001,2026-08-01,INV-001-0039,,Damages,42.66,DMG CLAIM $42.66 - PLS CREDIT NOTE  (resubmission - not yet paid?),
+CLM-0446,RET-001,2026-01-17,INV-001-0033,PRM-0002,Co-op Marketing,900.68,"MARKETING COOP CLAIM - USD 900.68  //fwd from finance team, pls action",DOC-0446.pdf
+CLM-0447,RET-001,2026-04-30,INV-001-0038,PRM-0003,Promo Discount Support,416.1,DEDUCTION TAKEN: RAMADAN BUNDLE SUPPORT. USD 416.10. CONTACT ACCT TEAM FOR QUERY,
+CLM-0448,RET-001,2026-03-05,INV-001-0000,PRM-0001,Co-op Marketing,1387.76,"MARKETING COOP CLAIM - USD 1,387.76",DOC-0448.pdf
+CLM-0449,RET-004,2026-07-12,INV-004-0009,,Promo Discount Support,1010.26,"DEDUCTION TAKEN: BACK-TO-CAMPUS SUPPORT. $1,010.26. CONTACT ACCT TEAM FOR QUERY  //fwd from finance team, pls action",
+CLM-0450,RET-004,2026-02-23,INV-004-0007,,Freight,162.69,delivery charge back $162.69,DOC-0450.pdf
+CLM-0451,RET-006,2026-01-27,INV-006-0012,,Damages,40.77,Goods received damaged. Raising claim USD 40.77. photos w/ store mgr,
+CLM-0452,RET-001,2026-01-20,INV-001-0021,,Freight,465.76,"delivery charge back $465.76  //fwd from finance team, pls action",DOC-0452.pdf
+CLM-0453,RET-005,2025-11-12,INV-005-0011,PRM-0025,Co-op Marketing,1180.35,"marketing coop claim - USD 1,180.35",DOC-0453.pdf
+CLM-0454,RET-002,2026-05-29,INV-002-0006,,Price Difference,461.33,invoice priced higher than trade terms. diff $461.33,DOC-0454.pdf
+CLM-0455,RET-005,2026-08-03,INV-005-0012,PRM-0028,Promo Discount Support,1604.37,"claiming promotional discount support Payday Sale - total USD 1,604.37. see attached remittance",DOC-0455.pdf
+CLM-0456,RET-003,2026-05-12,INV-003-0016,,Listing Fee,395.02,Annual listing fee new SKU. $395.02. per trade terms,DOC-0456.pdf
+CLM-0457,RET-001,2026-03-21,INV-001-0040,PRM-0002,Promo Discount Support,887.6,"CLAIMING PROMOTIONAL DISCOUNT SUPPORT RAMADAN BUNDLE - TOTAL $887.60. SEE ATTACHED REMITTANCE  //fwd from finance team, pls action",DOC-0457.pdf
+CLM-0458,RET-006,2025-10-26,INV-006-0011,,Listing Fee,911.96,ANNUAL LISTING FEE NEW SKU. USD 911.96. PER TRADE TERMS,
+CLM-0459,RET-005,2026-08-23,INV-005-0004,,Price Difference,96.46,"price diff vs agreed list, claiming $96.46, inv INV-005-0004",DOC-0459.pdf
+CLM-0460,RET-005,2026-07-16,INV-005-0010,,Promo Discount Support,1335.3,"Deduction taken: Payday Sale support. $1,335.30. contact acct team for query",DOC-0460.pdf
+CLM-0461,RET-002,2026-08-23,INV-002-0005,,Price Difference,150.6,"price diff vs agreed list, claiming $150.60, inv INV-002-0005",DOC-0461.pdf
+CLM-0462,RET-003,2026-03-29,INV-003-0013,PRM-0016,Promo Discount Support,1279.31,"Deduction taken: Diaper Intro Offer support. USD 1,279.31. contact acct team for query",DOC-0462.pdf
+CLM-0463,RET-002,2026-06-07,INV-002-0003,,Shortage,50.87,QTY SHORTAGE CLAIM $50.87,
+CLM-0464,RET-002,2026-07-27,INV-002-0003,,Listing Fee,591.08,LISTING FEE Q3 - $591.08 - ref INV-002-0003  (resubmission - not yet paid?),DOC-0464.pdf
+CLM-0465,RET-003,2026-03-18,INV-003-0005,,Damages,239.91,"DAMAGED STOCK ON DELIVERY INV-003-0005, CLAIMING USD 239.91",DOC-0465.pdf
+CLM-0466,RET-002,2026-05-17,INV-002-0006,,Damages,65.02,"damaged stock on delivery INV-002-0006, claiming $65.02  //fwd from finance team, pls action",DOC-0466.pdf
+CLM-0467,RET-002,2026-05-09,INV-002-0006,,Damages,39.3,Goods received damaged. Raising claim USD 39.30. photos w/ store mgr,DOC-0467.pdf
+CLM-0468,RET-006,2026-01-10,INV-006-0017,PRM-0034,Promo Discount Support,724.57,Deduction taken: Shelf Reset support. $724.57. contact acct team for query,DOC-0468.pdf
+CLM-0469,RET-002,2026-08-23,INV-002-0005,,Damages,77.89,"DAMAGED STOCK ON DELIVERY INV-002-0005, CLAIMING $77.89  //fwd from finance team, pls action",
+CLM-0470,RET-001,2025-12-13,INV-001-0036,PRM-0005,Promo Discount Support,1050.64,"Deduction taken: Diaper Intro Offer support. USD 1,050.64. contact acct team for query",DOC-0470.pdf
+CLM-0471,RET-001,2025-09-20,INV-001-0025,,Freight,128.27,"FREIGHT RECOVERY $128.27 INV INV-001-0025  //fwd from finance team, pls action",DOC-0471.pdf
+CLM-0472,RET-004,2026-05-28,INV-004-0003,PRM-0018,Promo Discount Support,884.96,DEDUCTION TAKEN: FESTIVE GIFTING SUPPORT. $884.96. CONTACT ACCT TEAM FOR QUERY,DOC-0472.pdf
+CLM-0473,RET-003,2026-01-11,INV-003-0012,,Price Difference,674.3,invoice priced higher than trade terms. diff USD 674.30,DOC-0473.pdf
+CLM-0474,RET-002,2026-05-29,INV-002-0001,PRM-0008,Promo Discount Support,1553.69,"PLS PROCESS PROMO SUPPORT FOR DIAPER INTRO OFFER AS PER AGREEMENT. AMT $1,553.69. INV REF INV-002-0001",DOC-0474.pdf
+CLM-0475,RET-006,2026-01-07,INV-006-0009,,Damages,39.65,Goods received damaged. Raising claim USD 39.65. photos w/ store mgr,DOC-0475.pdf
+CLM-0476,RET-006,2025-12-14,INV-006-0010,,Listing Fee,196.13,"LISTING FEE Q3 - $196.13 - ref INV-006-0010  //fwd from finance team, pls action",DOC-0476.pdf
+CLM-0477,RET-006,2026-01-30,INV-006-0014,,Listing Fee,399.36,"LISTING FEE Q3 - USD 399.36 - ref INV-006-0014  //fwd from finance team, pls action",DOC-0477.pdf
+CLM-0478,RET-002,2026-08-20,INV-002-0005,,Listing Fee,592.49,ANNUAL LISTING FEE NEW SKU. $592.49. PER TRADE TERMS,DOC-0478.pdf
+CLM-0479,RET-001,2025-10-31,INV-001-0008,PRM-0006,Promo Discount Support,438.91,Deduction taken: Night Pad Launch support. $438.91. contact acct team for query,

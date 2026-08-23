@@ -1,0 +1,7 @@
+retailer_id,retailer_name,market,channel,contract_id,kam_owner,annual_gross_sales_usd
+RET-001,Lumen Mart,SG,Modern Trade,CONTRACT_ALPHA,K. Tan,620000
+RET-002,Orchid Pharmacy,SG,Pharmacy,CONTRACT_ALPHA,K. Tan,180000
+RET-003,ShopFront SG,SG,E-tailer,CONTRACT_ALPHA,M. Lim,240000
+RET-004,Selera Retail,MY,Modern Trade,CONTRACT_BETA,A. Rahman,480000
+RET-005,Bulan Grocers,MY,Modern Trade,CONTRACT_BETA,A. Rahman,210000
+RET-006,Pasar Digital ID,ID,E-tailer,CONTRACT_BETA,R. Putra,270000
