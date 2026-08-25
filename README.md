@@ -12,7 +12,7 @@ is no API key and no network call anywhere in the demo path.
 ## Run it
 
     pip install -r requirements.txt
-    streamlit run app.py
+    python -m streamlit run app.py
 
 data/, contracts/ and store/ are committed, so the app runs straight from a
 clone. The app computes nothing at demo time - it reads pre-written CSVs.
@@ -23,7 +23,7 @@ clone. The app computes nothing at demo time - it reads pre-written CSVs.
     python main.py          # scores all 480, reports slide 9 KPIs
     python store.py         # audit trail          -> decisions, citations, reviews
     python eval.py          # opens the answer key -> store/scorecard.csv
-    streamlit run app.py
+    python -m streamlit run app.py
 
 ## The files
 
