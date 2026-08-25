@@ -17,8 +17,9 @@ WHY A REGEX BASELINE SITS NEXT TO THE MODEL
 "Does this need an LLM?" is a question to answer with a measurement, not an
 assumption. The baseline is honest competition: contract remittance notes are
 semi-structured, so a regex does well on amounts and invoice references. Where
-the model earns its place is claim_type - "Deduction taken: Ramadan Bundle
-support" carries no keyword a regex can rely on. Run both, compare, report the gap.
+the model earns its place is claim_type - "pls credit note for damaged stock"
+carries no keyword a regex can rely on - and the resubmission hint buried in
+free text. Run both, compare, report the gap.
 
 WHY IT WRITES A CACHE
 store/extractions.json is read by main.py. Nothing calls a model at demo time.
@@ -112,7 +113,7 @@ def extract_llm(texts, model="claude-sonnet-4-5"):
             body = re.sub(r"^```(?:json)?|```$", "", body, flags=re.M).strip()
             d = json.loads(body)
             d["method"] = "llm"
-        except Exception as e:                    # never let one bad row stop the run
+        except Exception as e:                       # never let one bad row stop the run
             d = extract_regex(t)
             d["method"] = f"regex-fallback ({type(e).__name__})"
         out.append(d)

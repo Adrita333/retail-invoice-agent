@@ -5,8 +5,6 @@ Reads   store/decisions.csv     what the agent decided
         data/ground_truth.csv   what the contract says     <- quarantined
         data/outcomes.csv       what the humans did        <- quarantined
 
-Writes  store/scorecard.csv     the KPIs, for app.py to display
-
 WHAT IS AND IS NOT A FAIR TEST, stated before the numbers
 
   CIRCULAR (report it, do not boast about it)
@@ -145,23 +143,21 @@ if __name__ == "__main__":
     print("  6 · COUNTERFACTUAL   filter OFF. Not a property of my rules - of the documents.")
     print("-" * 76)
     blind_dec, blind_params, contract_of = counterfactual()
-    b = blind_dec.set_index("claim_id").verdict
-    a = m.set_index("claim_id").verdict
+    b = blind_dec.set_index("claim_id")
+    a = m.set_index("claim_id")
     both = a.index.intersection(b.index)
-    changed = [i for i in both if a[i] != b[i]]
+    changed = [i for i in both if a.loc[i, "verdict"] != b.loc[i, "verdict"]]
     print(f"   unfiltered, every retailer is judged on: "
           f"{blind_params['window_days']} day window, "
           f"{blind_params['damages_pct']*100:.1f}% damages allowance")
     print(f"   {len(changed)} of {n} verdicts change when the filter is removed")
     if changed:
-        ret = m.set_index("claim_id").retailer_id
-        gate_b = blind_dec.set_index("claim_id").gate
         print("\n   examples:")
         for i in changed[:5]:
-            print(f"     {i}  {contract_of[ret[i]]:<15}{a[i]:<11} -> {b[i]:<11}"
-                  f" (unfiltered gate {gate_b[i]})")
-    amt = m.set_index("claim_id").claimed_amount_usd
-    val = float(amt.loc[changed].sum()) if changed else 0.0
+            print(f"     {i}  {contract_of[a.loc[i,'retailer_id']]:<15}"
+                  f"{a.loc[i,'verdict']:<11} -> {b.loc[i,'verdict']:<11}"
+                  f" (unfiltered gate {b.loc[i,'gate']})")
+    val = float(a.loc[changed, "claimed_amount_usd"].sum()) if changed else 0.0
     print(f"\n   US${val:,.0f} of claims decided differently. Every one of them would")
     print("   carry a real clause number - from the wrong contract.")
 
@@ -175,6 +171,10 @@ if __name__ == "__main__":
     # from them. The app displays; it does not compute.
     pd.DataFrame([{
         "effort_saved_usd": round(KAM_COST * BANDWIDTH * red),
+        # Published so app.py never has to reconstruct it by dividing
+        # effort_saved by reduction - both of which are rounded, which put
+        # US$4.80 of round-trip error into the filtered-scope tile.
+        "checking_cost_usd": round(KAM_COST * BANDWIDTH),
         "auto_rate": round(auto, 4),
         "reduction": round(red, 4),
         "leakage_found_usd": round(found),
@@ -199,5 +199,4 @@ if __name__ == "__main__":
     print("\n   vs the humans:")
     print(f"     detection      {bad.agent_rejected.mean()*100:.0f}%  vs  {bad.human_spotted.mean()*100:.0f}%")
     print(f"     false rejects  {fp_a}   vs  {fp_h}")
-    print("   -> store/scorecard.csv written for app.py")
     print("=" * 76 + "\n")

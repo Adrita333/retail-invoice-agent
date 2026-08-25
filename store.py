@@ -78,7 +78,6 @@ def write_all(dec, store=STORE):
     citations.to_csv(f"{store}/citations.csv", index=False)
 
     # ---------------- 3. reviews.csv (empty, schema only) ----------------
-    # never overwritten - a re-run must not wipe what a reviewer entered
     reviews_path = f"{store}/reviews.csv"
     if not os.path.exists(reviews_path):
         pd.DataFrame(columns=[

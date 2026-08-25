@@ -1,13 +1,16 @@
 """
 rules.py - the decision engine. Seven gates, in severity order.
 
+The division of labour, and the third RAG lesson of this build:
+
     RETRIEVAL supplies the PARAMETER.   "ninety (90) days"
     CODE      supplies the PROCEDURE.   claim_date - invoice_date > 90
 
 The engine never asks a model for a verdict. It asks the corpus for a number,
-pulls that number out of the quoted clause with a regex, then decides in plain
-Python. If no retrieved clause yields a usable number, the answer is "not
-established" and the claim escalates to a human - guideline G5.2.
+pulls that number out of the quoted clause with a regex, and then decides in
+plain Python. If no retrieved clause yields a usable number, the answer is
+"not established" and the claim escalates to a human - guideline G5.2. It is
+never guessed.
 
 GATES, in order. First one to fire wins.
 
@@ -16,14 +19,21 @@ GATES, in order. First one to fire wins.
   3  CONTRACT CLAUSE     5.2 / 9.4    no promo ref, over allowance -> REJECT
   4  ARITHMETIC          G4.1/A2.1    claimed > recomputed + tolerance -> REJECT
   5  DUPLICATE           A5.1/A5.2    -> REJECT
-  6  SUBSTANTIATION      G3.1         no evidence -> HOLD
+  6  SUBSTANTIATION      G3.1         no evidence, >= threshold -> HOLD
   7  AUTHORITY           A3.2         above threshold -> HOLD (never automated)
+
+Gate 1 is first because an expired claim is not payable whatever else is true
+about it - checking the arithmetic on a claim that lapsed two months ago is
+wasted work.
 
 Gate 3 sits above gate 4 for a reason discovered by running it: both catch a
 promo claim with no reference, but gate 4 says "claimed US$1,850 vs recomputed
 US$0.00" and gate 3 says clause 5.2. Only one of those is an argument you can
 put in front of a retailer. Order the gates by the quality of the citation
 they produce, not just by what they catch.
+
+Gate 7 is last because it is not a finding, it is an escalation: the claim may
+be perfectly valid and still need a signature.
 """
 
 import re
@@ -34,6 +44,10 @@ from retrieval import QUERIES, ClauseIndex, cite, load_corpus
 
 DATA = "data"
 
+
+# ----------------------------------------------------------------------
+# PARAMETERS - pulled out of retrieved clause text, never hard-coded
+# ----------------------------------------------------------------------
 # A2.3 and G3.1 both mention US$150 but say different things. The generic
 # substantiation query finds G3.1; materiality needs its own.
 Q_MATERIALITY = ("claims below this value are settled without individual "
@@ -88,16 +102,13 @@ def resolve_params(ix, contract_id):
     return p
 
 
+# ----------------------------------------------------------------------
 def load_data(d=DATA):
-    # price_list is loaded but not yet read by any gate. Price-difference
-    # claims cannot be recomputed because the data has no record of the price
-    # the retailer CONTENDS should have applied - only what was invoiced.
-    # Kept deliberately: it is the reference a price gate would need, and the
-    # missing field is a finding for Blood, not a bug here.
     r = {n: pd.read_csv(f"{d}/{n}.csv", keep_default_na=False)
          for n in ["claims", "customers", "invoices", "shipments",
                    "trade_promotions", "price_list"]}
-    r["claims"]["claimed_amount_usd"] = pd.to_numeric(r["claims"]["claimed_amount_usd"])
+    for c in ["claimed_amount_usd"]:
+        r["claims"][c] = pd.to_numeric(r["claims"][c])
     return r
 
 
@@ -106,9 +117,9 @@ def recompute(claim, ctx):
     Independent recomputation of what Blood actually owes - guideline G4.1.
 
     Returns (entitled, basis) or (None, reason) when there is no reference
-    value in the data to recompute against. That second case is not a failure
-    of the agent. It is a gap in Blood's master data, and the agent saying so
-    is more useful than the agent inventing a number.
+    value in the data to recompute against. That second case is not a
+    failure of the agent. It is a gap in Blood's master data, and the agent
+    saying so is more useful than the agent inventing a number.
     """
     t = claim.claim_type
     inv = ctx["inv_by_id"].get(claim.invoice_id)
@@ -134,10 +145,11 @@ def recompute(claim, ctx):
             f"capped at {ctx['params']['damages_pct']*100:.1f}% of invoice")
 
     # Listing Fee, Freight, Shortage, Price Difference: nothing in the data
-    # to recompute against.
+    # to recompute against. See the data-gap report in main.py.
     return None, f"no reference value available for {t}"
 
 
+# ----------------------------------------------------------------------
 def evaluate(claim, ctx):
     """Run the gates in order. First to fire decides. Always returns a dict."""
     p = ctx["params"]
@@ -175,6 +187,11 @@ def evaluate(claim, ctx):
     recomputable = entitled is not None
 
     # --- GATE 3: contract clause (the RAG-heavy gate) -----------------
+    # This runs BEFORE the arithmetic gate, deliberately. Both would catch a
+    # promo claim with no reference - but gate 4 rejects it as "claimed
+    # US$1,850 vs recomputed US$0.00", while this one rejects it citing
+    # clause 5.2. The first is a calculation. The second is an argument you
+    # can put in front of a retailer. Same verdict, very different letter.
     if claim.claim_type in ("Promo Discount Support", "Co-op Marketing") \
             and not claim.promo_id:
         return out("REJECT", "3-clause",
@@ -227,16 +244,17 @@ def evaluate(claim, ctx):
                entitled=entitled, basis=basis)
 
 
+# ----------------------------------------------------------------------
 def build_context(data, ix, contract_id):
     """Everything a gate needs, resolved once per contract, not per claim."""
+    inv = data["invoices"]
+    sh = data["shipments"]
+    pr = data["trade_promotions"]
     params = resolve_params(ix, contract_id)
 
-    # sort_values is not stable by default - without the claim_id tie-break,
-    # an original and its resubmission can swap places on an identical date
-    # and the engine flags the wrong one.
     dupe = {}
-    for _, r in data["claims"].sort_values(["claim_date", "claim_id"],
-                                           kind="stable").iterrows():
+    c = data["claims"].sort_values(["claim_date", "claim_id"], kind="stable")
+    for _, r in c.iterrows():
         key = (r.retailer_id, r.invoice_id, r.claim_type,
                round(float(r.claimed_amount_usd), 2))
         if key not in dupe:
@@ -245,9 +263,9 @@ def build_context(data, ix, contract_id):
     return {
         "contract_id": contract_id,
         "params": params,
-        "inv_by_id": {r.invoice_id: r for _, r in data["invoices"].iterrows()},
-        "ship_by_inv": {r.invoice_id: r for _, r in data["shipments"].iterrows()},
-        "promo_by_id": {r.promo_id: r for _, r in data["trade_promotions"].iterrows()},
+        "inv_by_id": {r.invoice_id: r for _, r in inv.iterrows()},
+        "ship_by_inv": {r.invoice_id: r for _, r in sh.iterrows()},
+        "promo_by_id": {r.promo_id: r for _, r in pr.iterrows()},
         "dupe_index": dupe,
         "dupe_clause": ix.search(QUERIES["duplicate"], contract_id, k=1)[0],
         "promo_clause": ix.search(QUERIES["promo_backing"], contract_id, k=1)[0],
@@ -265,28 +283,28 @@ if __name__ == "__main__":
     print("=" * 76)
     for cid in ("CONTRACT_ALPHA", "CONTRACT_BETA"):
         p = resolve_params(ix, cid)
-        s = p["_src"]
         print(f"\n  {cid}")
-        print(f"     claim window      {p['window_days']} days"
-              f"        <- {s['window_days']['doc']} cl {s['window_days']['clause']}")
+        print(f"     claim window     {p['window_days']} days"
+              f"        <- {p['_src']['window_days']['doc']} cl {p['_src']['window_days']['clause']}")
         print(f"     damages allowance {p['damages_pct']*100:.1f}%"
-              f"          <- {s['damages_pct']['doc']} cl {s['damages_pct']['clause']}")
-        print(f"     tolerance         {p['tol_pct']*100:.0f}% or US${p['tol_abs']:.0f}"
-              f"   <- {s['tolerance']['doc']} cl {s['tolerance']['clause']}")
-        print(f"     materiality       US${p['materiality']:.0f}"
-              f"         <- {s['materiality']['doc']} cl {s['materiality']['clause']}")
-        print(f"     authority         US${p['authority']:,.0f}"
-              f"       <- {s['authority']['doc']} cl {s['authority']['clause']}")
+              f"           <- {p['_src']['damages_pct']['doc']} cl {p['_src']['damages_pct']['clause']}")
+        print(f"     tolerance        {p['tol_pct']*100:.0f}% or US${p['tol_abs']:.0f}"
+              f"   <- {p['_src']['tolerance']['doc']} cl {p['_src']['tolerance']['clause']}")
+        print(f"     materiality      US${p['materiality']:.0f}"
+              f"          <- {p['_src']['materiality']['doc']} cl {p['_src']['materiality']['clause']}")
+        print(f"     authority        US${p['authority']:,.0f}"
+              f"        <- {p['_src']['authority']['doc']} cl {p['_src']['authority']['clause']}")
 
     print("\n" + "=" * 76)
-    print("ONE CLAIM PER GATE, END TO END")
+    print("FIVE CLAIMS, END TO END")
     print("=" * 76)
     cust = {r.retailer_id: r for _, r in data["customers"].iterrows()}
     ctxs = {cid: build_context(data, ix, cid)
             for cid in ("CONTRACT_ALPHA", "CONTRACT_BETA")}
     shown = set()
     for _, claim in data["claims"].iterrows():
-        d = evaluate(claim, ctxs[cust[claim.retailer_id].contract_id])
+        ctx = ctxs[cust[claim.retailer_id].contract_id]
+        d = evaluate(claim, ctx)
         if d["gate"] in shown:
             continue
         shown.add(d["gate"])
@@ -295,5 +313,7 @@ if __name__ == "__main__":
         print(f"     {d['verdict']:<11} gate {d['gate']}")
         print(f"     reason: {d['reason']}")
         if d["citation"]:
-            print(f"     cites : {d['citation'][:120]}...")
+            print(f"     cites : {d['citation'][:130]}...")
+        if len(shown) >= 6:
+            break
     print("\n" + "=" * 76)

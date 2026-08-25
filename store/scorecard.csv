@@ -1,2 +1,2 @@
-effort_saved_usd,auto_rate,reduction,leakage_found_usd,leakage_in_data_usd,rar_historical,rar_projected,detection_agent,detection_human,false_rejects_agent,false_rejects_human,counterfactual_flips,counterfactual_usd
-117000,0.7312,0.6964,29725,38763,0.6071,0.7391,0.6458,0.5312,0,10,19,6583
+effort_saved_usd,checking_cost_usd,auto_rate,reduction,leakage_found_usd,leakage_in_data_usd,rar_historical,rar_projected,detection_agent,detection_human,false_rejects_agent,false_rejects_human,counterfactual_flips,counterfactual_usd
+117000,168000,0.7312,0.6964,29725,38763,0.6071,0.7391,0.6458,0.5312,0,10,19,6583
