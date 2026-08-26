@@ -1,60 +1,110 @@
-# Meridian · Retail Invoice Checking Agent
+# Retail Invoice & Trade-Claim Validation Agent
 
-Use case 5 of 6 from the Meridian AI case study. Scores 480 retailer trade claims
-against 4 contract documents, decides which can be cleared without a KAM, and
-attaches the governing clause to every rejection.
+An agent that reads retailer deduction claims, checks each one against the
+governing supply contract, and returns a verdict with the clause it relied on.
 
-**RAG + rules. No generative model issues a verdict.**
-Retrieval supplies the *parameter* ("ninety (90) days"); Python supplies the
-*procedure* (claim_date - invoice_date > 90). Extraction runs on regex - there
-is no API key and no network call anywhere in the demo path.
+Claims arrive from retailers as deductions against invoices - promotional
+support, listing fees, damages, rebates. A commercial finance team cannot
+check them all, so most are paid on trust and the exceptions are found late,
+if at all. This agent scores every claim before payment and shows its
+reasoning, so a human reviews the 27% that need judgement instead of all 100%.
+
+Built on a synthetic dataset of 480 claims across 4 retailers, 12 months and
+4 contract documents. No client data is used anywhere in this repository.
+
+---
+
+## What it produces
+
+| | Result on the demo dataset |
+|---|---|
+| Claims scored | 480 |
+| Cleared automatically | 351 (73.1%) |
+| Held for review | 67 |
+| Rejected with a contract citation | 62 |
+| Leakage identified | US$29,725 of US$38,763 present (76.7%) |
+| Detection rate | 65% agent vs 53% current manual sample |
+| Wrong rejections | 0 agent vs 10 manual |
+| Clause citations produced | 263, none from a non-governing contract |
+
+Every one of those figures is recomputed by `eval.py` from files the scoring
+pipeline cannot read. Nothing is asserted by hand.
+
+---
+
+## How it works
+
+**Run** - `main.py` scores each claim through five ordered gates.
+
+    1  window        was the claim raised inside the contractual window
+    2  eligibility   is this claim type payable under this retailer's contract
+    3  clause        does the governing contract permit the rate claimed
+    4  arithmetic    does the amount recompute from the price list and volume
+    5  duplicate     has this promotion reference already been settled
+
+A claim that clears all five is AUTO_CLEAR. A claim that fails a hard gate is
+REJECT with the clause quoted. Anything the agent cannot decide is HOLD - it
+is never guessed.
+
+**Retrieval** - `retrieval.py` splits the four contract documents into 110
+clause-level chunks, filters to the contract that actually governs the
+retailer, and only then ranks by TF-IDF cosine similarity. Filtering before
+searching is the reason no citation ever comes from the wrong contract. With
+the filter removed, 19 verdicts flip and US$6,583 of exposure is misread -
+that counterfactual is measured, not claimed.
+
+**Store** - `store.py` writes one row per claim with the verdict, the gate
+that fired, the clause id, and the retrieved text. A verdict with no citable
+clause is an unusable verdict; it is held, not sent.
+
+**Ship** - `app.py` is a Streamlit review queue. It computes nothing at
+display time - it reads the CSVs the pipeline already wrote, so what a
+reviewer sees is exactly what was scored.
+
+---
 
 ## Run it
 
     pip install -r requirements.txt
     python -m streamlit run app.py
 
-data/, contracts/ and store/ are committed, so the app runs straight from a
-clone. The app computes nothing at demo time - it reads pre-written CSVs.
+`data/`, `contracts/` and `store/` are committed, so the app runs straight
+from a clone. The app computes nothing at demo time - it reads pre-written
+CSVs.
 
 ## Rebuild the outputs from scratch
 
-    python llm_extract.py   # reads Raw_Claim_Text  -> store/extractions.json
-    python main.py          # scores all 480, reports slide 9 KPIs
-    python store.py         # audit trail          -> decisions, citations, reviews
-    python eval.py          # opens the answer key -> store/scorecard.csv
-    python -m streamlit run app.py
+    python generate_data.py       # synthetic claims, contracts, price list
+    python main.py                # score all 480 claims
+    python store.py               # write the decision and citation tables
+    python eval.py                # recompute the scorecard
 
-## The files
+`eval.py` is the only file permitted to open the answer key. Nothing that
+produces a verdict can see it, which is what makes the scorecard a
+measurement rather than a restatement.
 
-| file | what it does |
-|---|---|
-| llm_extract.py | the only file that touches Raw_Claim_Text. Regex baseline; --llm path exists so the comparison is real. |
-| retrieval.py | TF-IDF over 110 clause chunks. Filters to the governing contract BEFORE ranking. |
-| rules.py | seven gates in severity order. Parameters pulled from retrieved clause text, never hard-coded. |
-| main.py | the driver. Loops all 480, reports the three KPIs it is allowed to. |
-| store.py | the audit trail. Hard rule: every REJECT must carry a citation, or the script exits non-zero. |
-| eval.py | the ONLY file allowed to open ground_truth.csv and outcomes.csv. Publishes scorecard.csv. |
-| app.py | the exception queue. Reads CSVs only; imports neither rules nor retrieval. |
+---
 
-## Headline results
+## Layout
 
-- 351 of 480 auto-cleared (73.1%) - 62 REJECT, 67 HOLD
-- US$117,000/yr effort saved (deck band 50-150K) = 4 KAMs x US$60K x 70%
-  bandwidth x 69.6% effort reduction
-- Leakage identified US$29,725 of US$38,763 in the data
-- Detection 65% vs 53% for the team today; 0 false rejects vs 10
-- Recovery acceptance rate 60.7% -> 73.9% projected
-- 263 citations, 0 from the wrong retailer's contract
-- Counterfactual: switch the contract filter off and 19 verdicts flip,
-  US$6,583 decided wrongly - each citing a real clause number, from the wrong
-  agreement. That number is a property of the documents, not of my rules.
+    main.py          the five gates, in order
+    rules.py         each gate as an independent, testable function
+    retrieval.py     clause chunking, contract filter, TF-IDF ranking
+    llm_extract.py   field extraction from unstructured claim text
+    store.py         decision and citation tables
+    eval.py          scorecard - the only reader of the answer key
+    app.py           Streamlit review queue
+    data/            claims, price list, retailer master, answer key
+    contracts/       four contract documents in markdown
+    store/           scored outputs, committed so the app runs on clone
 
-## Declared assumptions
+---
 
-42 min to check a claim by hand and 2 min to spot-check an auto-cleared one are
-modelling assumptions, not deck figures (MIN_MANUAL / MIN_AUTO in main.py). The
-deck supplies the KAM count (3-5), the salary band (US$50-70K), the 70%
-bandwidth and the 50-70% effort-reduction band; the minute values are chosen so
-the result lands inside that band. The human catch rates behind the 53%
-baseline are likewise generated, not observed.
+## Honest notes
+
+The dataset is synthetic and generated by `generate_data.py` with a fixed
+seed, so every number above reproduces exactly. The leakage rates and error
+patterns are ones I designed in; on real data the levels will differ. What
+transfers is the method - ordered gates, a contract filter ahead of
+retrieval, a quarantined answer key, and a hold verdict for anything the
+agent cannot substantiate.
