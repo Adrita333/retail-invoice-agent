@@ -5,7 +5,7 @@ market: ALL
 effective_from: 2025-07-01
 ---
 
-# CLAIM SUBSTANTIATION GUIDELINES (internal - Blood Commercial Finance)
+# CLAIM SUBSTANTIATION GUIDELINES (internal - Meridian Commercial Finance)
 
 ## G1. Purpose
 G1.1 These guidelines tell the Key Account team what evidence is required before a claim is

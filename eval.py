@@ -95,7 +95,7 @@ if __name__ == "__main__":
     print(f"   agent  {fp_a:>4} of {len(clean)}   {fp_a/len(clean)*100:.1f}%")
     print(f"   human  {fp_h:>4} of {len(clean)}   {fp_h/len(clean)*100:.1f}%")
     print("\n   Every wrong rejection costs twice: the claim gets paid anyway, and")
-    print("   Blood spends negotiating capital on an argument that does not hold.")
+    print("   Meridian spends negotiating capital on an argument that does not hold.")
 
     # ---------------------------------------------------------------- 3
     print("\n" + "-" * 76)

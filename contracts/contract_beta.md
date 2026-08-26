@@ -7,7 +7,7 @@ governing_law: Malaysia
 ---
 
 # TRADE AGREEMENT - CONTRACT_BETA
-### Between Blood Femcare Pte Ltd ("Supplier") and the Retailers listed above ("Retailer")
+### Between Meridian Consumer Pte Ltd ("Supplier") and the Retailers listed above ("Retailer")
 
 ## 1. Scope
 1.1 This Agreement governs the supply of Supplier's femcare and infant-care products to the

@@ -34,7 +34,7 @@ from datetime import datetime, timezone
 import pandas as pd
 import streamlit as st
 
-st.set_page_config(page_title="Blood · Retail Invoice Agent",
+st.set_page_config(page_title="Retail Invoice Agent",
                    page_icon="🧾", layout="wide")
 
 STORE, DATA = "store", "data"
@@ -73,7 +73,7 @@ reviews = read_reviews()
 
 # ----------------------------------------------------------------- header
 st.title("Retail Invoice Checking Intelligence")
-st.caption("Blood · use case 5 of 6 · scorecard 4.30, act-now quadrant · "
+st.caption("Contract-aware claim validation · "
            f"{len(dec)} claims scored against 4 contract documents")
 
 # ----------------------------------------------------------------- sidebar
@@ -115,7 +115,7 @@ with st.sidebar:
     st.write(f"**False rejects** {int(card.false_rejects_agent)} "
              f"vs {int(card.false_rejects_human)} today")
     st.caption("A wrong rejection costs twice — the claim gets paid anyway, and "
-               "Blood spends negotiating capital on an argument that collapses.")
+               "Meridian spends negotiating capital on an argument that collapses.")
 
     st.divider()
     st.subheader("Why the contract filter matters")

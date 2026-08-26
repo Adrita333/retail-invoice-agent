@@ -190,7 +190,7 @@ if __name__ == "__main__":
     print("   what the retailer never wrote. This is a retailer-process")
     print("   problem and the cheapest thing on the whole list to fix.")
     print(f"\n   {a['promo_expected'] - a['promo_in_note']} of {a['promo_expected']} promo claims quote no promotion reference in the")
-    print("   note - the PRM id lives in Blood's system, never in the retailer's")
+    print("   note - the PRM id lives in Meridian's system, never in the retailer's")
     print("   text. So promo linkage must come from MATCHING, not extraction.")
 
     miss = [e for e, (_, c) in zip(ext, claims.iterrows())

@@ -12,7 +12,7 @@ one, and it is the reason the whole RAG layer exists:
 WHY citations.csv IS A SEPARATE FILE
 Appendix clause A6.2: "A rejection that does not cite a governing clause may
 not be pursued in recovery." So an uncited rejection is not a weak rejection -
-it is an unusable one. Blood cannot take it to the retailer. That makes the
+it is an unusable one. Meridian cannot take it to the retailer. That makes the
 citation log a commercial asset, not a debugging convenience: it is the
 evidence pack for a trade negotiation.
 

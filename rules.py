@@ -114,11 +114,11 @@ def load_data(d=DATA):
 
 def recompute(claim, ctx):
     """
-    Independent recomputation of what Blood actually owes - guideline G4.1.
+    Independent recomputation of what Meridian actually owes - guideline G4.1.
 
     Returns (entitled, basis) or (None, reason) when there is no reference
     value in the data to recompute against. That second case is not a
-    failure of the agent. It is a gap in Blood's master data, and the agent
+    failure of the agent. It is a gap in Meridian's master data, and the agent
     saying so is more useful than the agent inventing a number.
     """
     t = claim.claim_type

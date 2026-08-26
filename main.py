@@ -57,8 +57,8 @@ def apply_extractions(claims, path=EXTRACTIONS):
 
     That split is not a shortcut, it is how deduction management actually
     works. A retailer's remittance quotes an amount and a reason; the invoice
-    linkage comes from Blood's own remittance matching, and the promotion
-    reference exists only in Blood's system - it is never in the retailer's
+    linkage comes from Meridian's own remittance matching, and the promotion
+    reference exists only in Meridian's system - it is never in the retailer's
     text. 62% of these notes quote no invoice number at all, which is a
     clause 7.1 breach and a retailer-process problem, not something a better
     extractor could fix.
@@ -118,7 +118,7 @@ if __name__ == "__main__":
     n = len(dec)
 
     print("\n" + "=" * 74)
-    print(f"  BLOOD  ·  RETAIL INVOICE AGENT  ·  {n} claims scored")
+    print(f"  RETAIL INVOICE AGENT  ·  {n} claims scored")
     print(f"  input: {'LLM-extracted fields (store/extractions.json)' if USE_EXTRACTIONS else 'pre-parsed structured columns'}")
     print("=" * 74)
 
@@ -160,7 +160,7 @@ if __name__ == "__main__":
     cov = cl.claim_type.isin(RECOMPUTABLE)
     print(f"   {cov.sum()} of {len(cl)} claims ({cov.mean()*100:.0f}%) have a reference value")
     print("   the agent can recompute against. For the rest there is nothing")
-    print("   in Blood's data to check the amount against:\n")
+    print("   in Meridian's data to check the amount against:\n")
     for t in sorted(set(cl.claim_type) - set(RECOMPUTABLE)):
         sub = cl[cl.claim_type == t]
         need = {"Listing Fee": "a per-SKU listing-fee schedule",

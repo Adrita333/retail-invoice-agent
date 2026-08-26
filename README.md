@@ -1,6 +1,6 @@
-# Blood · Retail Invoice Checking Agent
+# Meridian · Retail Invoice Checking Agent
 
-Use case 5 of 6 from the Blood AI case study. Scores 480 retailer trade claims
+Use case 5 of 6 from the Meridian AI case study. Scores 480 retailer trade claims
 against 4 contract documents, decides which can be cleared without a KAM, and
 attaches the governing clause to every rejection.
 
