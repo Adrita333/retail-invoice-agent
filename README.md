@@ -12,7 +12,8 @@ if at all. This agent scores every claim before payment and shows its
 reasoning, so a human reviews the 27% that need judgement instead of all 100%.
 
 Built on a synthetic dataset of 480 claims across 4 retailers, 12 months and
-4 contract documents. No client data is used anywhere in this repository.
+4 contract documents. Meridian is a fictional supplier and the four retailers
+are invented. No client data is used anywhere in this repository.
 
 [![The review queue — 480 claims scored, 129 left for a human](assets/app.png)](https://retail-invoice-agent.streamlit.app/)
 
