@@ -12,6 +12,12 @@ reasoning, so a human reviews the 27% that need judgement instead of all 100%.
 Built on a synthetic dataset of 480 claims across 4 retailers, 12 months and
 4 contract documents. No client data is used anywhere in this repository.
 
+[![The review queue — 480 claims scored, 129 left for a human](assets/app.png)](https://retail-invoice-agent.streamlit.app/)
+
+**[▶ Open the live app](https://retail-invoice-agent.streamlit.app/)**
+
+<sub>*Hosted free; if it shows a "wake app" button, give it about 30 seconds.*</sub>
+
 ---
 
 ## What it produces
