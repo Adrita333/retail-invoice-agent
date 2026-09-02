@@ -1,5 +1,7 @@
 # Retail Invoice & Trade-Claim Validation Agent
 
+[![tests](https://github.com/Adrita333/retail-invoice-agent/actions/workflows/tests.yml/badge.svg)](https://github.com/Adrita333/retail-invoice-agent/actions/workflows/tests.yml)
+
 An agent that reads retailer deduction claims, checks each one against the
 governing supply contract, and returns a verdict with the clause it relied on.
 
@@ -95,6 +97,7 @@ measurement rather than a restatement.
 
     main.py          the five gates, in order
     rules.py         each gate as an independent, testable function
+    tests/           invariant tests - see below
     retrieval.py     clause chunking, contract filter, TF-IDF ranking
     llm_extract.py   field extraction from unstructured claim text
     store.py         decision and citation tables
@@ -105,6 +108,26 @@ measurement rather than a restatement.
     store/           scored outputs, committed so the app runs on clone
 
 ---
+
+## The tests
+
+    python -m pytest -q          # 10 tests, ~3s
+
+They assert properties, not numbers. A test that pins 351 auto-clears breaks
+whenever a threshold moves and proves nothing about whether the agent is
+sound. These assert what the agent promises:
+
+| Test | What breaks it |
+|---|---|
+| No rejection without a clause | A gate returns REJECT with an empty citation |
+| No citation from a non-governing contract | Retrieval ranks before the contract filter, instead of after |
+| Nothing unsubstantiated is auto-cleared | A gate falls through to the AUTO_CLEAR at the end of `evaluate()` |
+| The window gate outranks every later gate | Gate order is changed so a late claim can be rescued by good arithmetic |
+| Scoring twice gives the same answer | A tie-break starts depending on dict or set ordering |
+
+Each was checked by breaking it: swapping one citation to the wrong contract,
+stripping a citation off a rejection, and flipping a substantiation hold to a
+clear are all caught. A test that cannot fail is not evidence.
 
 ## Honest notes
 
